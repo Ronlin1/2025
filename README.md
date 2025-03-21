@@ -406,7 +406,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UNESCO-Al Fozan International Prize https://tinyurl.com/sjnwv5k9 APR 6
 - [ ] Race Equity Grants https://tinyurl.com/bdcpuvas APR 7
 - [ ] Youth4Climate https://tinyurl.com/55jxkv76 APR 18
-- [ ] 
+- [ ] NSTC International Internship https://iipp.tw/ APRIL 3
+- [ ] EEML2025 https://tinyurl.com/bdd7vues APRIL 1
 
 
 
