@@ -348,7 +348,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WeRise Grant https://tinyurl.com/yc4ak4kf MAR 12
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk MAR 17
 - [ ] Indigenous Peoples Resilience Fund 2025 https://tinyurl.com/24wh52xd MAR 18
-- [ ] Grants for Good https://tinyurl.com/2w7cyza6 MAR 16
+- [ ] 
 - [ ] GSMA Innovation Fund for Impactful AI https://tinyurl.com/3teymdat MAR 11
 - [ ] Youth Climate Action Fund https://tinyurl.com/2ay2e2ew MAR 11
 - [ ] Danida Fellows Networkers Grant https://tinyurl.com/bddjkkth   MAR 13
@@ -451,7 +451,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 
 ## JUL
-- [ ] 
+- [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
 - [ ] 
 - [ ] 
 - [ ] 
