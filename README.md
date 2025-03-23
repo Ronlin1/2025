@@ -370,7 +370,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] COP30 BRAZIL FUNDING https://tinyurl.com/5s9np9s2 MAR 21
 - [ ] Buzuzu-Mavi Challenge https://tinyurl.com/awyu55ys MAR 28
 - [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ MAR 26
-- [ ] 
+- [ ] UCAS International Summer School https://tinyurl.com/2s384khm APR 11
 - [ ] 
 - [ ] 
 - [ ] 
@@ -408,6 +408,20 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth4Climate https://tinyurl.com/55jxkv76 APR 18
 - [ ] NSTC International Internship https://iipp.tw/ APRIL 3
 - [ ] EEML2025 https://tinyurl.com/bdd7vues APRIL 1
+- [ ] 776 FELLOWSHIP - https://tinyurl.com/mvj79849 APR 5
+- [ ] Youth PoliCy (Food Alleviation) - https://tinyurl.com/5b4v99zn APR 2
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
 
 
 
@@ -415,7 +429,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy MAY 3
 - [ ] NASA SPACE LOCAL LEAD - https://tinyurl.com/2m44pb56 MAY 23
 - [ ] Youth4Climate https://tinyurl.com/3mchbpsb MAY 1
-- [ ]
+- [ ] BCM Programme https://tinyurl.com/59jjywfk - MAY 10
 - [ ] Einstein Fellowship https://tinyurl.com/4hwkc262 MAY 8
 - [ ] HISA Youth Fellowship https://tinyurl.com/2m4zdmju MAY 15
 - [ ] 
@@ -427,7 +441,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Rapid Response Fund - https://tinyurl.com/47652h35 OPEN
 - [ ] Leading Scholarship https://tinyurl.com/5n8ucuuv JUN 28
 - [ ] NORMAN borlaug-award - https://tinyurl.com/2sa4x9nd JUNE 2
-- [ ] 
+- [ ] Space Coin - https://tinyurl.com/3ffu49kt JUNE 10 
 - [ ] 
 - [ ] 
 - [ ] 
