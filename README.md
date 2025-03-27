@@ -410,7 +410,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] EEML2025 https://tinyurl.com/bdd7vues APRIL 1
 - [ ] 776 FELLOWSHIP - https://tinyurl.com/mvj79849 APR 5
 - [ ] Youth PoliCy (Food Alleviation) - https://tinyurl.com/5b4v99zn APR 2
-- [ ] 
+- [ ] IEEE Sustech - https://ieee-sustech.org/ APR  3
 - [ ] 
 - [ ] 
 - [ ] 
