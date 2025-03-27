@@ -348,7 +348,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WeRise Grant https://tinyurl.com/yc4ak4kf MAR 12
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk MAR 17
 - [ ] Indigenous Peoples Resilience Fund 2025 https://tinyurl.com/24wh52xd MAR 18
-- [ ] 
+- [ ] GFic http://opd.to/41M5Bjw MAR 28
 - [ ] GSMA Innovation Fund for Impactful AI https://tinyurl.com/3teymdat MAR 11
 - [ ] Youth Climate Action Fund https://tinyurl.com/2ay2e2ew MAR 11
 - [ ] Danida Fellows Networkers Grant https://tinyurl.com/bddjkkth   MAR 13
@@ -370,9 +370,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] COP30 BRAZIL FUNDING https://tinyurl.com/5s9np9s2 MAR 21
 - [ ] Buzuzu-Mavi Challenge https://tinyurl.com/awyu55ys MAR 28
 - [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ MAR 26
-- [ ] UCAS International Summer School https://tinyurl.com/2s384khm APR 11
-- [ ] GCYLP - https://tinyurl.com/598m556r MAR 28
 - [ ] 
+- [ ] GCYLP - https://tinyurl.com/598m556r MAR 28
+- [ ] GOAL NextGen Youth Programme http://opd.to/3XxzQbE MAR 28
 - [ ] 
 - [ ] 
 - [ ] 
@@ -419,9 +419,27 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Africa Translation Fellowship http://opd.to/4ikJZRc APR 10
 - [ ] ITU Woman - https://www.itu.int/wtisd/itu160-gender-champions/ APR 2
 - [ ] UNESCO YOUTH IMPACT http://opd.to/4hz6eBL APR 2
+- [ ] Compute for Climate Fellowship http://opd.to/3DHQEFZ APR 2
+- [ ] YIA Fellowship http://opd.to/4bIaAoQ APR 12
+- [ ] UCAS International Summer School https://tinyurl.com/2s384khm APR 11
+- [ ] Halcyon EquityTech Fellowship  http://opd.to/4bG4rJU APR 9
+- [ ] Internet Society Mid-Career Fellowship http://opd.to/4iOQwUf APR 3
+- [ ] Vital Voices Global Fellowship http://opd.to/4c5i8Ct APR 7
 - [ ] 
 - [ ] 
-
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 
@@ -434,7 +452,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] HISA Youth Fellowship https://tinyurl.com/2m4zdmju MAY 15
 - [ ] Y4C https://tinyurl.com/bdfw285x MAY 17
 - [ ] Google Conference - https://tinyurl.com/yc8mrsae MAY 19
-- [ ] 
+- [ ] BeChangeMaker Social http://opd.to/4ieEt2G MAY 21
 
 ## JUN
 - [ ] IndabaDL https://deeplearningindaba.com/2025/ JUN 20
