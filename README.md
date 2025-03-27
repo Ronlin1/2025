@@ -371,7 +371,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Buzuzu-Mavi Challenge https://tinyurl.com/awyu55ys MAR 28
 - [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ MAR 26
 - [ ] UCAS International Summer School https://tinyurl.com/2s384khm APR 11
-- [ ] 
+- [ ] GCYLP - https://tinyurl.com/598m556r MAR 28
 - [ ] 
 - [ ] 
 - [ ] 
@@ -411,14 +411,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 776 FELLOWSHIP - https://tinyurl.com/mvj79849 APR 5
 - [ ] Youth PoliCy (Food Alleviation) - https://tinyurl.com/5b4v99zn APR 2
 - [ ] IEEE Sustech - https://ieee-sustech.org/ APR  3
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Pulumi https://tinyurl.com/mrxebpr4 APR 1
+- [ ] Lelapa AI - https://tinyurl.com/mt6u7btj APR 1
+- [ ] GUA https://undergraduateawards.com/ APR 20
+- [ ] UN Young Leader - https://tinyurl.com/3mrea7ey APR 7
+- [ ] NatGeo Freshwater Storytelling 2025 https://lnkd.in/d9v6X_Fk APR 12
+- [ ] Africa Translation Fellowship http://opd.to/4ikJZRc APR 10
+- [ ] ITU Woman - https://www.itu.int/wtisd/itu160-gender-champions/ APR 2
+- [ ] UNESCO YOUTH IMPACT http://opd.to/4hz6eBL APR 2
 - [ ] 
 - [ ] 
 
@@ -432,8 +432,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] BCM Programme https://tinyurl.com/59jjywfk - MAY 10
 - [ ] Einstein Fellowship https://tinyurl.com/4hwkc262 MAY 8
 - [ ] HISA Youth Fellowship https://tinyurl.com/2m4zdmju MAY 15
-- [ ] 
-- [ ] 
+- [ ] Y4C https://tinyurl.com/bdfw285x MAY 17
+- [ ] Google Conference - https://tinyurl.com/yc8mrsae MAY 19
 - [ ] 
 
 ## JUN
@@ -442,8 +442,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Leading Scholarship https://tinyurl.com/5n8ucuuv JUN 28
 - [ ] NORMAN borlaug-award - https://tinyurl.com/2sa4x9nd JUNE 2
 - [ ] Space Coin - https://tinyurl.com/3ffu49kt JUNE 10 
-- [ ] 
-- [ ] 
+- [ ] ML AI MATH - https://tinyurl.com/mpjhzwxy JUNE 5
+- [ ] NatGeo The Big Questions 2025 https://lnkd.in/dDuZZhR3 JUNE 11
 - [ ] 
 - [ ] 
 - [ ] 
@@ -452,7 +452,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## JUL
 - [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
-- [ ] 
+- [ ] The ARC Prize https://tinyurl.com/964skzj7 JULY 15
 - [ ] 
 - [ ] 
 - [ ] 
