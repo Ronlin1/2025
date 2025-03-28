@@ -425,8 +425,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Halcyon EquityTech Fellowship  http://opd.to/4bG4rJU APR 9
 - [ ] Internet Society Mid-Career Fellowship http://opd.to/4iOQwUf APR 3
 - [ ] Vital Voices Global Fellowship http://opd.to/4c5i8Ct APR 7
-- [ ] 
-- [ ] 
+- [ ] YLP - https://tinyurl.com/bdccdkcs APR 6
+- [ ] Upcoming Conferences - https://tinyurl.com/3unhrdxb APR 1
 - [ ] 
 - [ ] 
 - [ ] 
@@ -615,7 +615,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## EVENTS
 - [ ] Africa Media Festival https://barazamedialab.zohobackstage.com/AMF2025 FEB 10
 - [ ] AFS Youth Assembly Grants - JAN 15
-- [ ] 
+- [ ] Upcoming Conferences - https://tinyurl.com/3unhrdxb 
 - [ ] 
 - [ ] 
 - [ ] 
