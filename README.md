@@ -453,6 +453,28 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Y4C https://tinyurl.com/bdfw285x MAY 17
 - [ ] Google Conference - https://tinyurl.com/yc8mrsae MAY 19
 - [ ] BeChangeMaker Social http://opd.to/4ieEt2G MAY 21
+- [ ] Global Impact Summit https://tinyurl.com/44wr9udx MAY 20
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+
 
 ## JUN
 - [ ] IndabaDL https://deeplearningindaba.com/2025/ JUN 20
