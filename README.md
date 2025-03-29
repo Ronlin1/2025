@@ -426,7 +426,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Vital Voices Global Fellowship http://opd.to/4c5i8Ct APR 7
 - [ ] YLP - https://tinyurl.com/bdccdkcs APR 6
 - [ ] Upcoming Conferences - https://tinyurl.com/3unhrdxb APR 1
-- [ ] 
+- [ ] SUI - https://sui-overflow-2025.devfolio.co/overview APR 10
 - [ ] 
 - [ ] 
 - [ ] 
