@@ -364,11 +364,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global AI Agents League https://tinyurl.com/5fvsx7at MAR 24
 - [ ] AFRICA STARTUP FORUM 2025 https://tinyurl.com/2eyxf9zf MAR 18
 - [ ] UN Youth Biosecurity Fellowship  https://tinyurl.com/ybuv3e2p MAR 26
-- [ ] OIST program https://tinyurl.com/34cfxzst MAR 30
+- [ ] 
 - [ ] Climate Mobility Fellowship (CMF) 2025 https://lnkd.in/dCCTZtkJ MAR 13
 - [ ] COP30 BRAZIL FUNDING https://tinyurl.com/5s9np9s2 MAR 21
 - [ ] Buzuzu-Mavi Challenge https://tinyurl.com/awyu55ys MAR 28
-- [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ MAR 26
+- [ ] 
 - [ ] 
 - [ ] GCYLP - https://tinyurl.com/598m556r MAR 28
 - [ ] GOAL NextGen Youth Programme http://opd.to/3XxzQbE MAR 28
@@ -427,7 +427,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YLP - https://tinyurl.com/bdccdkcs APR 6
 - [ ] Upcoming Conferences - https://tinyurl.com/3unhrdxb APR 1
 - [ ] SUI - https://sui-overflow-2025.devfolio.co/overview APR 10
-- [ ] 
+- [ ] OIST program https://tinyurl.com/34cfxzst APR 4
 - [ ] 
 - [ ] 
 - [ ] 
@@ -493,7 +493,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
 - [ ] The ARC Prize https://tinyurl.com/964skzj7 JULY 15
 - [ ] 
-- [ ] 
+- [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ JULY 26
 - [ ] 
 - [ ] 
 - [ ] 
