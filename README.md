@@ -346,7 +346,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] CIF Call 2025 https://tinyurl.com/4sbzsvys MAR 28
 - [ ] CAD EXCHANGE Canada – Cultural Exchange Program 
 - [ ] WeRise Grant https://tinyurl.com/yc4ak4kf MAR 12
-- [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk MAR 17
 - [ ] Indigenous Peoples Resilience Fund 2025 https://tinyurl.com/24wh52xd MAR 18
 - [ ] GFic http://opd.to/41M5Bjw MAR 28
 - [ ] GSMA Innovation Fund for Impactful AI https://tinyurl.com/3teymdat MAR 11
@@ -484,7 +483,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Space Coin - https://tinyurl.com/3ffu49kt JUNE 10 
 - [ ] ML AI MATH - https://tinyurl.com/mpjhzwxy JUNE 5
 - [ ] NatGeo The Big Questions 2025 https://lnkd.in/dDuZZhR3 JUNE 11
-- [ ] 
+- [ ] Youth Vision Assembly https://tinyurl.com/56h2k9zy JUNE 11
 - [ ] 
 - [ ] 
 - [ ] 
@@ -500,6 +499,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 - [ ] 
 - [ ] 
+- [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk JULY 17
+
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
