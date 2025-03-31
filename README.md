@@ -428,7 +428,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Upcoming Conferences - https://tinyurl.com/3unhrdxb APR 1
 - [ ] SUI - https://sui-overflow-2025.devfolio.co/overview APR 10
 - [ ] OIST program https://tinyurl.com/34cfxzst APR 4
-- [ ] 
+- [ ] AI MS FEST https://microsoft.github.io/AI_Agents_Hackathon/ APR 8
 - [ ] 
 - [ ] 
 - [ ] 
