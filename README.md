@@ -429,8 +429,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SUI - https://sui-overflow-2025.devfolio.co/overview APR 10
 - [ ] OIST program https://tinyurl.com/34cfxzst APR 4
 - [ ] AI MS FEST https://microsoft.github.io/AI_Agents_Hackathon/ APR 8
-- [ ] 
-- [ ] 
+- [ ] Z Zurich Foundation https://tinyurl.com/2s3fy655 APR 21
+- [ ] ACE GRANT - https://tinyurl.com/mscak6ns APR 19
 - [ ] 
 - [ ] 
 - [ ] 
@@ -484,7 +484,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ML AI MATH - https://tinyurl.com/mpjhzwxy JUNE 5
 - [ ] NatGeo The Big Questions 2025 https://lnkd.in/dDuZZhR3 JUNE 11
 - [ ] Youth Vision Assembly https://tinyurl.com/56h2k9zy JUNE 11
-- [ ] 
+- [ ] NSTC https://iipp.tw/ JUNE 18
 - [ ] 
 - [ ] 
 - [ ] 
