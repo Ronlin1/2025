@@ -485,8 +485,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NatGeo The Big Questions 2025 https://lnkd.in/dDuZZhR3 JUNE 11
 - [ ] Youth Vision Assembly https://tinyurl.com/56h2k9zy JUNE 11
 - [ ] NSTC https://iipp.tw/ JUNE 18
-- [ ] 
-- [ ] 
+- [ ] DUBAI https://www.dubaifuture.ae/dubai-future-forum-idea-submission JUNE 10
+- [ ] Climate Career Bridge Fellowship https://tinyurl.com/3jc2w857 JUNE 23
 - [ ] 
 
 ## JUL
@@ -494,8 +494,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The ARC Prize https://tinyurl.com/964skzj7 JULY 15
 - [ ] 
 - [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ JULY 26
-- [ ] 
-- [ ] 
+- [ ] DUBAI https://www.dubaifuture.ae/future-stories-2025-edition JULY 28
+- [ ]
 - [ ] 
 - [ ] 
 - [ ] 
