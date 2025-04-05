@@ -431,7 +431,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AI MS FEST https://microsoft.github.io/AI_Agents_Hackathon/ APR 8
 - [ ] Z Zurich Foundation https://tinyurl.com/2s3fy655 APR 21
 - [ ] ACE GRANT - https://tinyurl.com/mscak6ns APR 19
-- [ ] 
+- [ ] Zindi Ambassador - https://tinyurl.com/53adywdb  APRIL 20
 - [ ] 
 - [ ] 
 - [ ] 
