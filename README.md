@@ -432,8 +432,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Z Zurich Foundation https://tinyurl.com/2s3fy655 APR 21
 - [ ] ACE GRANT - https://tinyurl.com/mscak6ns APR 19
 - [ ] Zindi Ambassador - https://tinyurl.com/53adywdb  APRIL 20
-- [ ] 
-- [ ] 
+- [ ] Tech X 2025 Series https://tinyurl.com/2t2rjpc4 APRIL 12
+- [ ] Llama-impact-africa-grant  https://tinyurl.com/563avn27  APRIL 9
 - [ ] 
 - [ ] 
 - [ ] 
@@ -453,8 +453,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Google Conference - https://tinyurl.com/yc8mrsae MAY 19
 - [ ] BeChangeMaker Social http://opd.to/4ieEt2G MAY 21
 - [ ] Global Impact Summit https://tinyurl.com/44wr9udx MAY 20
-- [ ] 
-- [ ] 
+- [ ] AES CALL FOR PAPERS - https://aes.era.go.ug/call-for-papers/ MAY 10
+- [ ] IEEE https://tinyurl.com/y4yrppjr MAY 10
 - [ ] 
 - [ ] 
 - [ ] 
