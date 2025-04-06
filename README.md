@@ -385,7 +385,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 
 ## APR
-- [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez APR 10
+- [ ] 
 - [ ] One Young World Summit - https://tinyurl.com/t4wedpad APR 20
 - [ ] JJ/WBGSP - https://tinyurl.com/bdha3nab APR 7
 - [ ] Einstein Award in Research - https://tinyurl.com/mtmtd6n8 APR 15
@@ -495,7 +495,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 - [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ JULY 26
 - [ ] DUBAI https://www.dubaifuture.ae/future-stories-2025-edition JULY 28
-- [ ]
+- [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez JULY 20
 - [ ] 
 - [ ] 
 - [ ] 
