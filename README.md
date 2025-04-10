@@ -434,7 +434,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Zindi Ambassador - https://tinyurl.com/53adywdb  APRIL 20
 - [ ] Tech X 2025 Series https://tinyurl.com/2t2rjpc4 APRIL 12
 - [ ] Llama-impact-africa-grant  https://tinyurl.com/563avn27  APRIL 9
-- [ ] 
+- [ ] IEEE TechX  https://tinyurl.com/ynj9edhk APR 13
 - [ ] 
 - [ ] 
 - [ ] 
@@ -455,9 +455,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Impact Summit https://tinyurl.com/44wr9udx MAY 20
 - [ ] AES CALL FOR PAPERS - https://aes.era.go.ug/call-for-papers/ MAY 10
 - [ ] IEEE https://tinyurl.com/y4yrppjr MAY 10
+- [ ] BitNob https://tinyurl.com/569nypsb MAY 19
 - [ ] 
-- [ ] 
-- [ ] 
+- [ ] kirabo-equity-programe https://tinyurl.com/mr3rc9s4 MAY 23
 - [ ] 
 - [ ] 
 - [ ] 
