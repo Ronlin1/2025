@@ -429,7 +429,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] SUI - https://sui-overflow-2025.devfolio.co/overview APR 10
 - [ ] OIST program https://tinyurl.com/34cfxzst APR 4
 - [ ] AI MS FEST https://microsoft.github.io/AI_Agents_Hackathon/ APR 8
-- [ ] Z Zurich Foundation https://tinyurl.com/2s3fy655 APR 21
+- [ ] Z Zurich Foundation https://tinyurl.com/2s3fy655 APR 23
 - [ ] ACE GRANT - https://tinyurl.com/mscak6ns APR 19
 - [ ] Zindi Ambassador - https://tinyurl.com/53adywdb  APRIL 20
 - [ ] Tech X 2025 Series https://tinyurl.com/2t2rjpc4 APRIL 12
