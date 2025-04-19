@@ -458,7 +458,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] BitNob https://tinyurl.com/569nypsb MAY 19
 - [ ] sdgactionawards https://sdgactionawards.org/apply/ MAY 1
 - [ ] kirabo-equity-programe https://tinyurl.com/mr3rc9s4 MAY 23
-- [ ] 
+- [ ] Google Accelerator ; https://startup.google.com/programs/accelerator/africa/ MAY 3
 - [ ] 
 - [ ] 
 - [ ] 
