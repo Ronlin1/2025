@@ -459,10 +459,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] sdgactionawards https://sdgactionawards.org/apply/ MAY 1
 - [ ] kirabo-equity-programe https://tinyurl.com/mr3rc9s4 MAY 23
 - [ ] Google Accelerator ; https://startup.google.com/programs/accelerator/africa/ MAY 3
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Y4C https://tinyurl.com/3hm7tjff MAY 18
+- [ ] Google Cloud Credits - https://tinyurl.com/yv2c3z6b  MAY 12
+- [ ] YEF - https://tinyurl.com/ye3w34nm MAY 24
+- [ ] GUA https://undergraduateawards.com/ MAY 25
 - [ ] 
 - [ ] 
 - [ ] 
