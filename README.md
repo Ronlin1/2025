@@ -463,7 +463,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Google Cloud Credits - https://tinyurl.com/yv2c3z6b  MAY 12
 - [ ] YEF - https://tinyurl.com/ye3w34nm MAY 24
 - [ ] GUA https://undergraduateawards.com/ MAY 25
-- [ ] 
+- [ ] UN SDG AWARDS - https://sdgactionawards.org/ MAY 19
 - [ ] 
 - [ ] 
 - [ ] 
@@ -487,7 +487,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NSTC https://iipp.tw/ JUNE 18
 - [ ] DUBAI https://www.dubaifuture.ae/dubai-future-forum-idea-submission JUNE 10
 - [ ] Climate Career Bridge Fellowship https://tinyurl.com/3jc2w857 JUNE 23
-- [ ] 
+- [ ] GitHub Foundations - https://tinyurl.com/bdjwuwjd JUNE 09
+- [ ] D-PRIZE https://d-prize.org/ JUNE 12
+- [ ] MLH https://tinyurl.com/38hx932s JUNE 4
 
 ## JUL
 - [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
