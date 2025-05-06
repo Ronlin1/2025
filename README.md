@@ -464,9 +464,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YEF - https://tinyurl.com/ye3w34nm MAY 24
 - [ ] GUA https://undergraduateawards.com/ MAY 25
 - [ ] UN SDG AWARDS - https://sdgactionawards.org/ MAY 19
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Paris Peace Forum https://shorturl.at/kWDBu MAY 23
+- [ ] YMCA https://shorturl.at/p7h1H MAY 13
+- [ ] WE ARE TOGETHER - https://shorturl.at/RRDEh MAY 16
 - [ ] 
 - [ ] 
 - [ ] 
@@ -490,6 +490,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GitHub Foundations - https://tinyurl.com/bdjwuwjd JUNE 09
 - [ ] D-PRIZE https://d-prize.org/ JUNE 12
 - [ ] MLH https://tinyurl.com/38hx932s JUNE 4
+- [ ] Adinkra Fellowship  https://shorturl.at/W38FV JUNE 16
 
 ## JUL
 - [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
