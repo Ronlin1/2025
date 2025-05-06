@@ -443,10 +443,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 
 ## MAY
-- [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy MAY 3
+- [ ] David Sainsbury Scholarship - https://lnkd.in/gvFzpbsy MAY 18
 - [ ] NASA SPACE LOCAL LEAD - https://tinyurl.com/2m44pb56 MAY 23
-- [ ] Youth4Climate https://tinyurl.com/3mchbpsb MAY 1
-- [ ] BCM Programme https://tinyurl.com/59jjywfk - MAY 10
+- [ ] Youth4Climate https://tinyurl.com/3mchbpsb MAY 20
+- [ ] BCM Programme https://tinyurl.com/59jjywfk - MAY 20
 - [ ] Einstein Fellowship https://tinyurl.com/4hwkc262 MAY 8
 - [ ] HISA Youth Fellowship https://tinyurl.com/2m4zdmju MAY 15
 - [ ] Y4C https://tinyurl.com/bdfw285x MAY 17
