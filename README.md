@@ -1,4 +1,4 @@
-## 🌟 2025 Opportunity Tracker 
+## 🌟 2025 Opportunity Tracker  
 Welcome to the 2025 Opportunities, Hackathons, and Tech Events Tracker repository! This repo is designed to help you stay ahead of the curve by tracking deadlines for various fellowships, hackathons, grants, competitions, and other exciting opportunities tailored for young innovators and tech enthusiasts.
   
 ![](/oppt.png)
@@ -468,7 +468,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] YMCA https://shorturl.at/p7h1H MAY 13
 - [ ] WE ARE TOGETHER - https://shorturl.at/RRDEh MAY 16
 - [ ] 
-- [ ] 
+- [ ] WATCH - https://www.youtube.com/watch?v=9J2K-KQ2psk MAY 29
 - [ ] 
 - [ ] 
 
