@@ -467,7 +467,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Paris Peace Forum https://shorturl.at/kWDBu MAY 23
 - [ ] YMCA https://shorturl.at/p7h1H MAY 13
 - [ ] WE ARE TOGETHER - https://shorturl.at/RRDEh MAY 16
-- [ ] 
+- [ ] IATF https://tinyurl.com/5b2ahkk3 MAY 20
 - [ ] WATCH - https://www.youtube.com/watch?v=9J2K-KQ2psk MAY 29
 - [ ] 
 - [ ] 
