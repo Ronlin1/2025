@@ -491,6 +491,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] D-PRIZE https://d-prize.org/ JUNE 12
 - [ ] MLH https://tinyurl.com/38hx932s JUNE 4
 - [ ] Adinkra Fellowship  https://shorturl.at/W38FV JUNE 16
+- [ ] Open AI - Z https://openai.com/openai-to-z-challenge/ JUNE 13
 
 ## JUL
 - [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
