@@ -499,6 +499,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] METI AI & Tech Talent Internship https://tinyurl.com/tnn6c2z3 JUNE 8
 - [ ] METI Government of Japan Internship https://tinyurl.com/t8y8wfzu JUNE 16
 - [ ] Young Leaders Summit https://tinyurl.com/uypn8yue JUNE 1 
+- [ ] GIP HENGE - https://recruit.hennge.com/en/gip/ JUNE 17
+- [ ] The Global Undergraduate Awards https://undergraduateawards.com/ JUNE 2
+
+
 
 
 
