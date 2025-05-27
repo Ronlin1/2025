@@ -485,6 +485,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NatGeo The Big Questions 2025 https://lnkd.in/dDuZZhR3 JUNE 11
 - [ ] Youth Vision Assembly https://tinyurl.com/56h2k9zy JUNE 11
 - [ ] NSTC https://iipp.tw/ JUNE 18
+- [ ] Leadership Awards Summit https://tinyurl.com/yc5mw8be JUNE 16
+- [ ] 
 - [ ] DUBAI https://www.dubaifuture.ae/dubai-future-forum-idea-submission JUNE 10
 - [ ] Climate Career Bridge Fellowship https://tinyurl.com/3jc2w857 JUNE 23
 - [ ] GitHub Foundations - https://tinyurl.com/bdjwuwjd JUNE 09
