@@ -486,7 +486,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Youth Vision Assembly https://tinyurl.com/56h2k9zy JUNE 11
 - [ ] NSTC https://iipp.tw/ JUNE 18
 - [ ] Leadership Awards Summit https://tinyurl.com/yc5mw8be JUNE 16
-- [ ] 
+- [ ] Japan Youth Summit https://tinyurl.com/t83y7jkz JUNE 8
 - [ ] DUBAI https://www.dubaifuture.ae/dubai-future-forum-idea-submission JUNE 10
 - [ ] Climate Career Bridge Fellowship https://tinyurl.com/3jc2w857 JUNE 23
 - [ ] GitHub Foundations - https://tinyurl.com/bdjwuwjd JUNE 09
@@ -496,6 +496,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Open AI - Z https://openai.com/openai-to-z-challenge/ JUNE 13
 - [ ] Vesalius Innovation Award https://tinyurl.com/yacwfzet JUNE 8
 - [ ] GoGettaz https://gogettaz.africa/2025-gogettaz-agripreneur-prize/ JUNE 5
+- [ ] METI AI & Tech Talent Internship https://tinyurl.com/tnn6c2z3 JUNE 8
+- [ ] METI Government of Japan Internship https://tinyurl.com/t8y8wfzu JUNE 16
+- [ ] Young Leaders Summit https://tinyurl.com/uypn8yue JUNE 1 
+
+
+
 
 ## JUL
 - [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
