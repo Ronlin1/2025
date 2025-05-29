@@ -501,6 +501,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Young Leaders Summit https://tinyurl.com/uypn8yue JUNE 1 
 - [ ] GIP HENGE - https://recruit.hennge.com/en/gip/ JUNE 17
 - [ ] The Global Undergraduate Awards https://undergraduateawards.com/ JUNE 2
+- [ ] GLOBAL CITIZEN AWARDS https://tinyurl.com/yc322ux9 JUNE 17
+- [ ] AI4GOOD - https://aiforgood.itu.int/summit25/ JUNE 20
+- [ ] ETH GLOBAL https://ethglobal.com/ JUNE 7
+- [ ] RIFS Fellows Program https://tinyurl.com/4frx23mt JUNE 3
+- [ ] Trae AI IDE: Zero Limits Hackathon https://tinyurl.com/ycy6rawd JUNE 8
 
 
 
