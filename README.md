@@ -504,7 +504,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GLOBAL CITIZEN AWARDS https://tinyurl.com/yc322ux9 JUNE 17
 - [ ] AI4GOOD - https://aiforgood.itu.int/summit25/ JUNE 20
 - [ ] ETH GLOBAL https://ethglobal.com/ JUNE 7
+- [ ] UG Innovate https://tinyurl.com/y2y5pwxh JUNE 5
 - [ ] RIFS Fellows Program https://tinyurl.com/4frx23mt JUNE 3
+- [ ] MEXT https://tinyurl.com/594ff73m JUNE 11
+- [ ] HEH https://tinyurl.com/385umndu JUNE 6
+- [ ] BOLT H - https://hackathon.dev/builder-pack JUNE 11
 - [ ] Trae AI IDE: Zero Limits Hackathon https://tinyurl.com/ycy6rawd JUNE 8
 
 
@@ -515,11 +519,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## JUL
 - [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
 - [ ] The ARC Prize https://tinyurl.com/964skzj7 JULY 15
-- [ ] 
+- [ ] ABI https://abihack.com/ JULY 5
 - [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ JULY 26
 - [ ] DUBAI https://www.dubaifuture.ae/future-stories-2025-edition JULY 28
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez JULY 20
-- [ ] 
+- [ ] Climate Writers - https://tinyurl.com/3mbj7ze9 JULY 28
 - [ ] 
 - [ ] 
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk JULY 17
