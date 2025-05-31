@@ -509,6 +509,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MEXT https://tinyurl.com/594ff73m JUNE 11
 - [ ] HEH https://tinyurl.com/385umndu JUNE 6
 - [ ] BOLT H - https://hackathon.dev/builder-pack JUNE 11
+- [ ] Timbuktoo ManuTech Bootcamp https://tinyurl.com/3n3d87h9 JUNE 16
 - [ ] Trae AI IDE: Zero Limits Hackathon https://tinyurl.com/ycy6rawd JUNE 8
 
 
