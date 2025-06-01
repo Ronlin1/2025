@@ -513,6 +513,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] BOLT H - https://hackathon.dev/builder-pack JUNE 11
 - [ ] Timbuktoo ManuTech Bootcamp https://tinyurl.com/3n3d87h9 JUNE 16
 - [ ] Trae AI IDE: Zero Limits Hackathon https://tinyurl.com/ycy6rawd JUNE 8
+- [ ] World Agric Forum Internship - START ON THE RESEARCH JUNE 18
 
 
 
