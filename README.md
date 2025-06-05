@@ -481,7 +481,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Leading Scholarship https://tinyurl.com/5n8ucuuv JUN 28
 - [ ] NORMAN borlaug-award - https://tinyurl.com/2sa4x9nd JUNE 2
 - [ ] Space Coin - https://tinyurl.com/3ffu49kt JUNE 10 
-- [ ] ML AI MATH - https://tinyurl.com/mpjhzwxy JUNE 5
+- [ ] ML AI MATH - https://tinyurl.com/mpjhzwxy JUNE 29
 - [ ] NatGeo The Big Questions 2025 https://lnkd.in/dDuZZhR3 JUNE 11
 - [ ] Youth Vision Assembly https://tinyurl.com/56h2k9zy JUNE 11
 - [ ] NSTC https://iipp.tw/ JUNE 18
@@ -508,12 +508,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] RIFS Fellows Program https://tinyurl.com/4frx23mt JUNE 3
 - [ ] MEXT https://tinyurl.com/594ff73m JUNE 11
 - [ ] HEH https://tinyurl.com/385umndu JUNE 6
-- [ ] GoGettaz Agripreneur https://vc4a.com/gogettaz/2025/?cmt=9 JUNE 6
+- [ ] GoGettaz Agripreneur https://vc4a.com/gogettaz/2025/?cmt=9 JUNE 7
 - [ ] DPRIZE - https://vc4a.com/d-prize/d-prize-challenge-2025/?cmt=9 JUNE 6
 - [ ] BOLT H - https://hackathon.dev/builder-pack JUNE 11
 - [ ] Timbuktoo ManuTech Bootcamp https://tinyurl.com/3n3d87h9 JUNE 16
 - [ ] Trae AI IDE: Zero Limits Hackathon https://tinyurl.com/ycy6rawd JUNE 8
 - [ ] World Agric Forum Internship - START ON THE RESEARCH JUNE 18
+- [ ] The Global Good Fund https://tinyurl.com/5cc4fx9v JUNE 17
+- [ ]
 
 
 
@@ -528,8 +530,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DUBAI https://www.dubaifuture.ae/future-stories-2025-edition JULY 28
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez JULY 20
 - [ ] Climate Writers - https://tinyurl.com/3mbj7ze9 JULY 28
-- [ ] 
-- [ ] 
+- [ ] Open Tech Fund - https://tinyurl.com/3t2whcdy JULY 12
+- [ ] RHODES SCHOLARS https://tinyurl.com/br4dhfsv JULY 10
+- [ ] https://www.100accelerator.com/ 100 ACCELERATOR JULY 6
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk JULY 17
 
 
@@ -752,7 +755,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DeepSeek might not be as disruptive as claimed https://tinyurl.com/2zwcj4hm
 - [ ] NETHERMIND PROJECTS - https://tinyurl.com/mv279ffa
 - [ ] 10 useful GitHub repos https://tinyurl.com/yx5kj4rv
-- [ ] 
+- [ ] 15 Times to use AI, and 5 Not to https://tinyurl.com/ybc56ncc 
 - [ ] 
 - [ ] 
 - [ ] 
