@@ -534,6 +534,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] RHODES SCHOLARS https://tinyurl.com/br4dhfsv JULY 10
 - [ ] https://www.100accelerator.com/ 100 ACCELERATOR JULY 6
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk JULY 17
+- [ ] africa-deep-tech-challenge https://tinyurl.com/3djyt3kd JULY 11
 
 
 ## JOBS & INTERNSHIPS
