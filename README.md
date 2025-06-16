@@ -491,7 +491,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DUBAI https://www.dubaifuture.ae/dubai-future-forum-idea-submission JUNE 10
 - [ ] Climate Career Bridge Fellowship https://tinyurl.com/3jc2w857 JUNE 23
 - [ ] GitHub Foundations - https://tinyurl.com/bdjwuwjd JUNE 09
-- [ ] D-PRIZE https://d-prize.org/ JUNE 12
+- [ ] D-PRIZE https://d-prize.org/ JUNE 21
 - [ ] MLH https://tinyurl.com/38hx932s JUNE 4
 - [ ] Adinkra Fellowship  https://shorturl.at/W38FV JUNE 16
 - [ ] Open AI - Z https://openai.com/openai-to-z-challenge/ JUNE 13
@@ -520,7 +520,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Model Commonwealth Summit https://tinyurl.com/57m6hm5s JUNE 26
 - [ ] Green Business https://tinyurl.com/3n4yp7sf JUNE 21
 - [ ] Google AI Labs https://labs.google/aifuturesfund JUNE 21
-- [ ] 
+- [ ] APCOM Conference https://tinyurl.com/2kptafe7 JUNE 27
+- [ ] Commonwealth Startup Fellowship https://tinyurl.com/3nvr8js7 JUNE 22
+- [ ] Zero One https://starthubafrica.org/zero-one/ JUNE 19
+- [ ] PyCon Africa https://za.pycon.org/sponsors/ JUNE 26
+- [ ] UNITAR Communications Traineeship https://tinyurl.com/4wjvjswx JUNE 23
 
 
 
@@ -541,6 +545,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk JULY 17
 - [ ] africa-deep-tech-challenge https://tinyurl.com/3djyt3kd JULY 11
 - [ ] Social Shifters https://tinyurl.com/57r9hfs8 JULY 16
+- [ ] FAS https://tinyurl.com/42wb59t2 JULY 3
+- [ ] A STAR ACIS Scholarship https://tinyurl.com/yc7369sk JULY 11
+- [ ] ILP ITALY https://tinyurl.com/59y2yve5 JULY 5
+- [ ] Discover Vancouver https://tinyurl.com/y96ud84k JULY 16
 
 
 ## AUG
