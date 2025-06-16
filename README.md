@@ -22,6 +22,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## ⭐️ Another Great Repo for Students:
 - [x] https://tinyurl.com/4wfed4pv
+- [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 
 
 ## JAN
@@ -535,6 +536,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] https://www.100accelerator.com/ 100 ACCELERATOR JULY 6
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk JULY 17
 - [ ] africa-deep-tech-challenge https://tinyurl.com/3djyt3kd JULY 11
+
+
+## AUG
+- [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 
 
 ## JOBS & INTERNSHIPS
