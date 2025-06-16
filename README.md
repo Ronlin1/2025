@@ -519,12 +519,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Indaba https://tinyurl.com/t9v8kryu June 21
 - [ ] Model Commonwealth Summit https://tinyurl.com/57m6hm5s JUNE 26
 - [ ] Green Business https://tinyurl.com/3n4yp7sf JUNE 21
+- [ ] YEF https://thecgdl.org/yef2025/ref/8/ JUNE 21
 - [ ] Google AI Labs https://labs.google/aifuturesfund JUNE 21
 - [ ] APCOM Conference https://tinyurl.com/2kptafe7 JUNE 27
 - [ ] Commonwealth Startup Fellowship https://tinyurl.com/3nvr8js7 JUNE 22
 - [ ] Zero One https://starthubafrica.org/zero-one/ JUNE 19
 - [ ] PyCon Africa https://za.pycon.org/sponsors/ JUNE 26
 - [ ] UNITAR Communications Traineeship https://tinyurl.com/4wjvjswx JUNE 23
+- [ ] SDL Youth Assembly https://tinyurl.com/mry5bck7 JUNE 23
 
 
 
@@ -549,6 +551,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] A STAR ACIS Scholarship https://tinyurl.com/yc7369sk JULY 11
 - [ ] ILP ITALY https://tinyurl.com/59y2yve5 JULY 5
 - [ ] Discover Vancouver https://tinyurl.com/y96ud84k JULY 16
+- [ ] International Forum https://tinyurl.com/3df4a3au JULY 27
+- [ ] Universal Youth Leadership Summit  https://tinyurl.com/2cfz6xxx JULY 9
+- [ ] 
 
 
 ## AUG
