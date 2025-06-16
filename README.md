@@ -516,7 +516,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Trae AI IDE: Zero Limits Hackathon https://tinyurl.com/ycy6rawd JUNE 8
 - [ ] World Agric Forum Internship - START ON THE RESEARCH JUNE 18
 - [ ] The Global Good Fund https://tinyurl.com/5cc4fx9v JUNE 17
-- [ ]
+- [ ] Indaba https://tinyurl.com/t9v8kryu June 21
+- [ ] Model Commonwealth Summit https://tinyurl.com/57m6hm5s JUNE 26
+- [ ] Green Business https://tinyurl.com/3n4yp7sf JUNE 21
+- [ ] Google AI Labs https://labs.google/aifuturesfund JUNE 21
+- [ ] 
 
 
 
@@ -536,6 +540,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] https://www.100accelerator.com/ 100 ACCELERATOR JULY 6
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk JULY 17
 - [ ] africa-deep-tech-challenge https://tinyurl.com/3djyt3kd JULY 11
+- [ ] Social Shifters https://tinyurl.com/57r9hfs8 JULY 16
 
 
 ## AUG
