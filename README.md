@@ -553,11 +553,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Discover Vancouver https://tinyurl.com/y96ud84k JULY 16
 - [ ] International Forum https://tinyurl.com/3df4a3au JULY 27
 - [ ] Universal Youth Leadership Summit  https://tinyurl.com/2cfz6xxx JULY 9
-- [ ] 
+- [ ] Unleash https://unleash.org/philippines/ JUNE 27
 
 
 ## AUG
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
+- [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
 
 
 ## JOBS & INTERNSHIPS
