@@ -23,6 +23,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## ⭐️ Another Great Repo for Students:
 - [x] https://tinyurl.com/4wfed4pv
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
+- [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
 
 
 ## JAN
@@ -557,9 +558,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 
 ## AUG
-- [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
+- [ ] 
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
-
+- [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
+- [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
