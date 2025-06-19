@@ -528,6 +528,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] PyCon Africa https://za.pycon.org/sponsors/ JUNE 26
 - [ ] UNITAR Communications Traineeship https://tinyurl.com/4wjvjswx JUNE 23
 - [ ] SDL Youth Assembly https://tinyurl.com/mry5bck7 JUNE 23
+- [ ] Unleash https://unleash.org/philippines/ JUNE 27
+- [ ] Next Gen Africa - https://tinyurl.com/3eve4tvf JUNE 24
+- [ ] SFP https://tinyurl.com/ycjh74ph JUNE 26
+- [ ] World Youth Skills Day Survey https://tinyurl.com/msbyej86 JUNE 26
 
 
 
@@ -554,14 +558,17 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Discover Vancouver https://tinyurl.com/y96ud84k JULY 16
 - [ ] International Forum https://tinyurl.com/3df4a3au JULY 27
 - [ ] Universal Youth Leadership Summit  https://tinyurl.com/2cfz6xxx JULY 9
-- [ ] Unleash https://unleash.org/philippines/ JUNE 27
+- [ ] WIF https://tinyurl.com/yc552pvp JULY 11
+- [ ] Ubuntu Leaders Academy https://form.fillout.com/t/r3dmrZm9kCus JULY 9
+- [ ] IAU25 https://na.eventscloud.com/website/77653/ JULY 7
 
 
 ## AUG
-- [ ] 
+- [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
+- [ ] harvard-radcliffe-institute-fellowship https://tinyurl.com/572kchtb AUG 23
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
