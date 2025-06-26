@@ -566,7 +566,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Ubuntu Leaders Academy https://form.fillout.com/t/r3dmrZm9kCus JULY 9
 - [ ] IAU25 https://na.eventscloud.com/website/77653/ JULY 7
 - [ ] WIF https://tinyurl.com/p9juvheu JULY 14
-- [ ] 
+- [ ] Young Leaders Union https://tinyurl.com/363tr7es JULY 22
+- [ ] British Council UK https://tinyurl.com/2h48ee77 JULY 11
+- [ ] UCD Visiting Fellowship https://tinyurl.com/ycxcs4tr JULY 12
+- [ ] KWI International Fellowship https://tinyurl.com/m9bkx5at JULY 29
+- [ ] UN Ocean Fellowship https://tinyurl.com/373v9nca JULY 8
+- [ ] FIAS Fellowship Program https://tinyurl.com/47b6tenb JULY 9
+- [ ] Kyoto Retreat https://tinyurl.com/pmy35uaw JULY 8
+- [ ] Yale Emerging Climate Leader JULY 24
 
 
 ## AUG
@@ -577,13 +584,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
 - [ ] harvard-radcliffe-institute-fellowship https://tinyurl.com/572kchtb AUG 23
 - [ ] Hubert Humphrey Fellowship  https://tinyurl.com/yet33au4 AUG 11
-- [ ] Harvard Rowland Fellows 
+- [ ] Harvard Rowland Fellows  https://tinyurl.com/42dbc4yb AUG 3
 - [ ] Harvard Radcliffe Fellowship  https://tinyurl.com/bdhn9jfh AUG 27
-- [ ] 
+- [ ] University of Bonn International Fellowship https://tinyurl.com/3hz7fdxe AUG 27
+- [ ] EPFL CYD Fellowship https://tinyurl.com/47w5av85 AUG 9
+- [ ] Max Planck Doucet Scholarship https://tinyurl.com/mw3pvye5 AUG 26
 
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
-- [ ]
+- [ ] 
 
 ## OCT
 - [ ]
