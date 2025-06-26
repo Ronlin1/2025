@@ -542,6 +542,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Grants for Good https://tinyurl.com/2w7cyza6 JULY 26
 - [ ] The ARC Prize https://tinyurl.com/964skzj7 JULY 15
 - [ ] ABI https://abihack.com/ JULY 5
+- [ ] African Climate Innovation Challenge  https://wp.me/p23f03-faE JULY 2
+- [ ] Do You Fellowship http://opd.to/4eeVR63 JULY 11
+- [ ] Reach for Gold Social Impact Fellowship https://bit.ly/3HLVLH0 JULY 5
 - [ ] ACTION GRANTS https://www.theyouthharbour.org/action-grants/ JULY 26
 - [ ] DUBAI https://www.dubaifuture.ae/future-stories-2025-edition JULY 28
 - [ ] Charles Hayward Foundation - https://tinyurl.com/4smuwrez JULY 20
