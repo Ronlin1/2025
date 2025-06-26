@@ -576,6 +576,18 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
 - [ ] harvard-radcliffe-institute-fellowship https://tinyurl.com/572kchtb AUG 23
+- [ ] Hubert Humphrey Fellowship  https://tinyurl.com/yet33au4 AUG 11
+- [ ] Harvard Rowland Fellows 
+- [ ] Harvard Radcliffe Fellowship  https://tinyurl.com/bdhn9jfh AUG 27
+- [ ] 
+
+## SEPT
+- [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
+- [ ]
+
+## OCT
+- [ ]
+- [ ]
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
