@@ -565,11 +565,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WIF https://tinyurl.com/yc552pvp JULY 11
 - [ ] Ubuntu Leaders Academy https://form.fillout.com/t/r3dmrZm9kCus JULY 9
 - [ ] IAU25 https://na.eventscloud.com/website/77653/ JULY 7
+- [ ] WIF https://tinyurl.com/p9juvheu JULY 14
+- [ ] 
 
 
 ## AUG
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
+- [ ] IAS Fellowhip https://tinyurl.com/mtyhxykd AUG 31
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
 - [ ] harvard-radcliffe-institute-fellowship https://tinyurl.com/572kchtb AUG 23
