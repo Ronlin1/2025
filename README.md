@@ -556,6 +556,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] africa-deep-tech-challenge https://tinyurl.com/3djyt3kd JULY 11
 - [ ] Social Shifters https://tinyurl.com/57r9hfs8 JULY 16
 - [ ] FAS https://tinyurl.com/42wb59t2 JULY 3
+- [ ] PyConAfrica’s Financial Grant https://lnkd.in/euhTfeMc JULY 11
 - [ ] A STAR ACIS Scholarship https://tinyurl.com/yc7369sk JULY 11
 - [ ] ILP ITALY https://tinyurl.com/59y2yve5 JULY 5
 - [ ] Discover Vancouver https://tinyurl.com/y96ud84k JULY 16
