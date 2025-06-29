@@ -556,6 +556,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] africa-deep-tech-challenge https://tinyurl.com/3djyt3kd JULY 11
 - [ ] Social Shifters https://tinyurl.com/57r9hfs8 JULY 16
 - [ ] FAS https://tinyurl.com/42wb59t2 JULY 3
+- [ ] Emerging Climate Leaders Fellowship https://tinyurl.com/2hhuu39n JULY 23
+- [ ] 
 - [ ] PyConAfrica’s Financial Grant https://lnkd.in/euhTfeMc JULY 11
 - [ ] A STAR ACIS Scholarship https://tinyurl.com/yc7369sk JULY 11
 - [ ] ILP ITALY https://tinyurl.com/59y2yve5 JULY 5
@@ -594,6 +596,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] University of Bonn International Fellowship https://tinyurl.com/3hz7fdxe AUG 27
 - [ ] EPFL CYD Fellowship https://tinyurl.com/47w5av85 AUG 9
 - [ ] Max Planck Doucet Scholarship https://tinyurl.com/mw3pvye5 AUG 26
+- [ ] Climatebase https://tinyurl.com/mrmfazzb AUG 4
 
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
