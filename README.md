@@ -581,6 +581,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Kyoto Retreat https://tinyurl.com/pmy35uaw JULY 8
 - [ ] Yale Emerging Climate Leader JULY 24
 - [ ] BioDesign https://tinyurl.com/3xwkpdrb JULY 19
+- [ ] RELX https://tinyurl.com/mr2pv7hy JULY 19
 
 
 ## AUG
