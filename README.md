@@ -574,6 +574,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FIAS Fellowship Program https://tinyurl.com/47b6tenb JULY 9
 - [ ] Kyoto Retreat https://tinyurl.com/pmy35uaw JULY 8
 - [ ] Yale Emerging Climate Leader JULY 24
+- [ ] BioDesign https://tinyurl.com/3xwkpdrb JULY 19
 
 
 ## AUG
