@@ -569,6 +569,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Young Leaders Union https://tinyurl.com/363tr7es JULY 22
 - [ ] British Council UK https://tinyurl.com/2h48ee77 JULY 11
 - [ ] UCD Visiting Fellowship https://tinyurl.com/ycxcs4tr JULY 12
+- [ ] COP30, BRAZIL https://tinyurl.com/ypr99n99 JULY 11
+- [ ] FUEL RESEARCH https://tinyurl.com/54v9kn32 JULY 6
+- [ ] ROTARY https://register.rotaryugandacancer.org/ JULY 8
+- [ ] AWS REINVENT https://reinvent.awsevents.com/all-builders-welcome/ JULY 9
 - [ ] KWI International Fellowship https://tinyurl.com/m9bkx5at JULY 29
 - [ ] UN Ocean Fellowship https://tinyurl.com/373v9nca JULY 8
 - [ ] FIAS Fellowship Program https://tinyurl.com/47b6tenb JULY 9
