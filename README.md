@@ -593,7 +593,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Cooperation & UN Training https://wp.me/p23f03-fmB JULY 4
 - [ ] Commonwealth Students' Association https://www.mi-nomination.com/csa JULY 6
 - [ ] CYPAN Country Representatives https://tinyurl.com/36ecak3t JULY 23
-- [ ] Devconnect ARG Scholars https://tinyurl.com/3xe2pydu 
+- [ ] Devconnect ARG Scholars https://tinyurl.com/3xe2pydu JULY 3
+- [ ] UJ CONNECT ACCELERATOR PROGRAM https://tinyurl.com/4u4s3y37 JULY 11
 
 
 ## AUG
