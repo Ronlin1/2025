@@ -582,6 +582,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Yale Emerging Climate Leader JULY 24
 - [ ] BioDesign https://tinyurl.com/3xwkpdrb JULY 19
 - [ ] RELX https://tinyurl.com/mr2pv7hy JULY 19
+- [ ] EDGE Fellowship https://wp.me/p23f03-f4Z JULY 11
+- [ ] Morgan Stanley https://tinyurl.com/46djj3jn JULY 3
+- [ ] Global Cooperation & UN Training https://wp.me/p23f03-fmB JULY 4
 
 
 ## AUG
@@ -605,7 +608,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 
 ## OCT
-- [ ]
+- [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
 - [ ]
 
 ## JOBS & INTERNSHIPS
