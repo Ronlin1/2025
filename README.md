@@ -70,7 +70,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] TechForward Policy Fellowship - https://tinyurl.com/bdjrpbsj , https://tinyurl.com/bdjrpbsj JAN 20
 - [ ] AGNES Climate Governance  https://agnesafrica.org/training-portal/ JAN 3
 - [ ] Summer Research Fellowship  - https://tinyurl.com/29tr2k9j JAN 1
-- [ ] 
+- [ ] BOLT H https://hackathon.dev/builder-pack
 - [ ] UNDP and Samsung Fellow - https://tinyurl.com/mrtt7t53 JAN 5
 - [ ] UYLS 2025 Maldives https://tinyurl.com/4f296vke JAN 20
 - [ ] AI Startup Challenge https://zaka.ai/launchpad JAN 2
