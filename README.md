@@ -598,6 +598,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] EPFL CYD Fellowship https://tinyurl.com/47w5av85 AUG 9
 - [ ] Max Planck Doucet Scholarship https://tinyurl.com/mw3pvye5 AUG 26
 - [ ] Climatebase https://tinyurl.com/mrmfazzb AUG 4
+- [ ] BFPN Youth Ambassador - https://tinyurl.com/2yh3wkyh AUG 21
 
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
