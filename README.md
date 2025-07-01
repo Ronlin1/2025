@@ -557,7 +557,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Social Shifters https://tinyurl.com/57r9hfs8 JULY 16
 - [ ] FAS https://tinyurl.com/42wb59t2 JULY 3
 - [ ] Emerging Climate Leaders Fellowship https://tinyurl.com/2hhuu39n JULY 23
-- [ ] 
+- [ ] Moonshot Awards https://wp.me/p23f03-foR JULY 8
+- [ ] Ellerman Foundation Multi-Year https://wp.me/p23f03-fiD JULY 28
+- [ ] ChallengeUS Future Leaders  https://wp.me/p23f03-cbF JULY 19
+- [ ] Excel Student Ambassador Program https://tinyurl.com/45wjx5yh JULY 17
 - [ ] PyConAfrica’s Financial Grant https://lnkd.in/euhTfeMc JULY 11
 - [ ] A STAR ACIS Scholarship https://tinyurl.com/yc7369sk JULY 11
 - [ ] ILP ITALY https://tinyurl.com/59y2yve5 JULY 5
@@ -565,9 +568,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] International Forum https://tinyurl.com/3df4a3au JULY 27
 - [ ] Universal Youth Leadership Summit  https://tinyurl.com/2cfz6xxx JULY 9
 - [ ] WIF https://tinyurl.com/yc552pvp JULY 11
+- [ ] Adobe Student Summit https://event.adobe.com/adobe-student-summit JULY 8
 - [ ] Ubuntu Leaders Academy https://form.fillout.com/t/r3dmrZm9kCus JULY 9
 - [ ] IAU25 https://na.eventscloud.com/website/77653/ JULY 7
 - [ ] WIF https://tinyurl.com/p9juvheu JULY 14
+- [ ] JUI https://tinyurl.com/2u2abjzx JULY 9
 - [ ] Young Leaders Union https://tinyurl.com/363tr7es JULY 22
 - [ ] British Council UK https://tinyurl.com/2h48ee77 JULY 11
 - [ ] UCD Visiting Fellowship https://tinyurl.com/ycxcs4tr JULY 12
@@ -583,7 +588,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] BioDesign https://tinyurl.com/3xwkpdrb JULY 19
 - [ ] RELX https://tinyurl.com/mr2pv7hy JULY 19
 - [ ] EDGE Fellowship https://wp.me/p23f03-f4Z JULY 11
-- [ ] Morgan Stanley https://tinyurl.com/46djj3jn JULY 3
+- [ ] Morgan Stanley https://tinyurl.com/46djj3jn JULY 13
 - [ ] Global Cooperation & UN Training https://wp.me/p23f03-fmB JULY 4
 
 
@@ -602,6 +607,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Max Planck Doucet Scholarship https://tinyurl.com/mw3pvye5 AUG 26
 - [ ] Climatebase https://tinyurl.com/mrmfazzb AUG 4
 - [ ] BFPN Youth Ambassador - https://tinyurl.com/2yh3wkyh AUG 21
+- [ ] DDC x TrygFonden Fellowship https://wp.me/p23f03-fiY AUG 29
 
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
