@@ -595,6 +595,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] CYPAN Country Representatives https://tinyurl.com/36ecak3t JULY 23
 - [ ] Devconnect ARG Scholars https://tinyurl.com/3xe2pydu JULY 3
 - [ ] UJ CONNECT ACCELERATOR PROGRAM https://tinyurl.com/4u4s3y37 JULY 11
+- [ ] Broadening Participation in Computing https://tinyurl.com/7c4j6zn5 JULY 24
 
 
 ## AUG
