@@ -572,6 +572,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Ubuntu Leaders Academy https://form.fillout.com/t/r3dmrZm9kCus JULY 9
 - [ ] IAU25 https://na.eventscloud.com/website/77653/ JULY 7
 - [ ] WIF https://tinyurl.com/p9juvheu JULY 14
+- [ ] Ireland Fellows Programme https://tinyurl.com/5n83mype JULY 17 
 - [ ] JUI https://tinyurl.com/2u2abjzx JULY 9
 - [ ] Young Leaders Union https://tinyurl.com/363tr7es JULY 22
 - [ ] British Council UK https://tinyurl.com/2h48ee77 JULY 11
@@ -590,6 +591,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] EDGE Fellowship https://wp.me/p23f03-f4Z JULY 11
 - [ ] Morgan Stanley https://tinyurl.com/46djj3jn JULY 13
 - [ ] Global Cooperation & UN Training https://wp.me/p23f03-fmB JULY 4
+- [ ] Commonwealth Students' Association https://www.mi-nomination.com/csa JULY 6
+- [ ] CYPAN Country Representatives https://tinyurl.com/36ecak3t JULY 23
+- [ ] Devconnect ARG Scholars https://tinyurl.com/3xe2pydu 
 
 
 ## AUG
@@ -611,6 +615,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
+- [ ] PIZZA HOSTING https://tinyurl.com/3mn6mraj OPEN
 - [ ] 
 
 ## OCT
@@ -686,8 +691,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 - [ ] 
 - [ ] 
+
+
+## NOV
 - [ ] 
-- [ ] 
+- [ ] Fowler https://www.fowlergsic.org/get-involved-1 NOV 10
 - [ ] 
 
 ## Scholarships
