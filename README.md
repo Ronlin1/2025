@@ -596,6 +596,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Devconnect ARG Scholars https://tinyurl.com/3xe2pydu JULY 3
 - [ ] UJ CONNECT ACCELERATOR PROGRAM https://tinyurl.com/4u4s3y37 JULY 11
 - [ ] Broadening Participation in Computing https://tinyurl.com/7c4j6zn5 JULY 24
+- [ ] Gap in Btn sTARTUP Challenge https://tinyurl.com/bdc3b7bv JULY 7
 
 
 ## AUG
