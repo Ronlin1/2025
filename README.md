@@ -590,6 +590,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] RELX https://tinyurl.com/mr2pv7hy JULY 19
 - [ ] EDGE Fellowship https://wp.me/p23f03-f4Z JULY 11
 - [ ] Morgan Stanley https://tinyurl.com/46djj3jn JULY 13
+- [ ] UJ CONNECT https://tinyurl.com/42r3c8bm JULY 8
+- [ ] AI Summer School https://ai-summer-school.inpt.ac.ma/dates.html JULY 9
+- [ ] Blue Champions Application https://tinyurl.com/mt3w6a3  JULY 15
 - [ ] Global Cooperation & UN Training https://wp.me/p23f03-fmB JULY 4
 - [ ] Commonwealth Students' Association https://www.mi-nomination.com/csa JULY 6
 - [ ] CYPAN Country Representatives https://tinyurl.com/36ecak3t JULY 23
@@ -597,10 +600,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] UJ CONNECT ACCELERATOR PROGRAM https://tinyurl.com/4u4s3y37 JULY 11
 - [ ] Broadening Participation in Computing https://tinyurl.com/7c4j6zn5 JULY 24
 - [ ] Gap in Btn sTARTUP Challenge https://tinyurl.com/bdc3b7bv JULY 7
+- [ ] CYPAN Country Representatives https://tinyurl.com/3snjxudb JULY 11
+- [ ] Student Research Grant https://tinyurl.com/55sby96x JULY 13
+- [ ] ESG Con https://tinyurl.com/5c3ateuh JULY 17
 
 
 ## AUG
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
+- [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
+- [ ] sTARTUP WORLD https://tinyurl.com/uefa8fdz AUG 11
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
 - [ ] IAS Fellowhip https://tinyurl.com/mtyhxykd AUG 31
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
@@ -615,7 +623,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Max Planck Doucet Scholarship https://tinyurl.com/mw3pvye5 AUG 26
 - [ ] Climatebase https://tinyurl.com/mrmfazzb AUG 4
 - [ ] BFPN Youth Ambassador - https://tinyurl.com/2yh3wkyh AUG 21
+- [ ] Nippon Foundation Fellowship https://tinyurl.com/yc2fya24 AUG 29
+- [ ] IEEE ComSoc https://tinyurl.com/jcb3m85x AUG 16
+- [ ] IMAS 2025 https://imas-ieee.org/ AUG 17
+- [ ] Polkadot FUNDS https://tinyurl.com/4bwyy9md AUG 27
+
 - [ ] DDC x TrygFonden Fellowship https://wp.me/p23f03-fiY AUG 29
+
+
 
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
@@ -624,7 +639,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
-- [ ]
+- [ ] FOLWER https://www.fowlergsic.org/ OCT 29
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
