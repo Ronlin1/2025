@@ -556,6 +556,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] africa-deep-tech-challenge https://tinyurl.com/3djyt3kd JULY 11
 - [ ] Social Shifters https://tinyurl.com/57r9hfs8 JULY 16
 - [ ] FAS https://tinyurl.com/42wb59t2 JULY 3
+- [ ] Uongozi Institute Women’s Leadership https://tinyurl.com/23rrfeme JULY 11
 - [ ] Emerging Climate Leaders Fellowship https://tinyurl.com/2hhuu39n JULY 23
 - [ ] Moonshot Awards https://wp.me/p23f03-foR JULY 8
 - [ ] Ellerman Foundation Multi-Year https://wp.me/p23f03-fiD JULY 28
@@ -615,11 +616,17 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Biodesign Innovation Fellowship https://tinyurl.com/5w8ycj7s JULY 20
 - [ ] GITHUB Campus Expert - https://tinyurl.com/crzcpwnm JULY 23
 - [ ] Bertha Challenge Fellowship https://opd.to/3TLT2Qt JULY 22
+- [ ] Falling Walls Lab https://opd.to/3IrdIL2 JULY 17
+- [ ] AFRIGER https://bit.ly/gascc2025 JULY 12
+- [ ] 
 
 
 ## AUG
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
 - [ ] 1MYAC https://tinyurl.com/ywapf2jz AUG 2
+- [ ] AI in Health Africa Conference https://lnkd.in/dWCZ93C2 AUG 4
+- [ ] RCA Conference https://tinyurl.com/2xsn2fj3 AUG 15
+- [ ] Kjøller INVEST - https://kjoller.com/application.asp AUG 17
 - [ ] PhD Scholarship https://lnkd.in/e9diNsFk AUG 6
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
@@ -629,6 +636,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IAS Fellowhip https://tinyurl.com/mtyhxykd AUG 31
 - [ ] Global Citizen x PayPal Small Business Impact Awards http://opd.to/3I2fEd4 AUG 2
 - [ ] AI4D Dhttps://tinyurl.com/5fun95d9 AUG 10
+- [ ] Africa Agri-Food Development Programme https://tinyurl.com/24sdjkrc AUG 7
+- [ ] 
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
