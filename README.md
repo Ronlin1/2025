@@ -603,10 +603,20 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] CYPAN Country Representatives https://tinyurl.com/3snjxudb JULY 11
 - [ ] Student Research Grant https://tinyurl.com/55sby96x JULY 13
 - [ ] ESG Con https://tinyurl.com/5c3ateuh JULY 17
+- [ ] Pleasure Fellowship Program https://tinyurl.com/yck646aa JULY 12
+- [ ] AfaRise https://tinyurl.com/46u27e85 JULY 22
+- [ ] Africa Climate Summit (ACS2) https://tinyurl.com/yc4h2uzp JULY 24
+- [ ] Global Youth Climate Action Fund Microgrants https://tinyurl.com/4acncm89 JULY 14
+- [ ] 8th National Youth Parliament https://tinyurl.com/5exak6ka JULY 12
+- [ ] UNFCCC 2025 Capacity Fellowship https://tinyurl.com/2rh6xut2 JULY 24
+- [ ] Biodesign Innovation Fellowship https://tinyurl.com/5w8ycj7s JULY 20
 
 
 ## AUG
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
+- [ ] 1MYAC https://tinyurl.com/ywapf2jz AUG 2
+- [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
+- [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
 - [ ] sTARTUP WORLD https://tinyurl.com/uefa8fdz AUG 11
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
@@ -614,6 +624,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
+- [ ] MEST AI Startup Program https://tinyurl.com/25vdur8f AUG 10
 - [ ] harvard-radcliffe-institute-fellowship https://tinyurl.com/572kchtb AUG 23
 - [ ] Hubert Humphrey Fellowship  https://tinyurl.com/yet33au4 AUG 11
 - [ ] Harvard Rowland Fellows  https://tinyurl.com/42dbc4yb AUG 3
@@ -635,7 +646,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
 - [ ] PIZZA HOSTING https://tinyurl.com/3mn6mraj OPEN
-- [ ] 
+- [ ] Tokyo City University https://tinyurl.com/3nhzy5f4 SEPT 3
+- [ ] Radcliffe Institute Fellowship https://tinyurl.com/t9jutphh SEPT 3
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
