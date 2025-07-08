@@ -598,11 +598,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] CYPAN Country Representatives https://tinyurl.com/36ecak3t JULY 23
 - [ ] Devconnect ARG Scholars https://tinyurl.com/3xe2pydu JULY 3
 - [ ] UJ CONNECT ACCELERATOR PROGRAM https://tinyurl.com/4u4s3y37 JULY 11
+- [ ] beai https://lnkd.in/eXJijFqZ JULY 20
+- [ ] Africa Knowledge Hub - Student Research Grant https://lnkd.in/ewTvx9ks JULY 16
 - [ ] Broadening Participation in Computing https://tinyurl.com/7c4j6zn5 JULY 24
 - [ ] Gap in Btn sTARTUP Challenge https://tinyurl.com/bdc3b7bv JULY 7
 - [ ] CYPAN Country Representatives https://tinyurl.com/3snjxudb JULY 11
 - [ ] Student Research Grant https://tinyurl.com/55sby96x JULY 13
 - [ ] ESG Con https://tinyurl.com/5c3ateuh JULY 17
+- [ ] NGFP Fellowship https://wp.me/p23f03-edc JULY 24
 - [ ] Pleasure Fellowship Program https://tinyurl.com/yck646aa JULY 12
 - [ ] AfaRise https://tinyurl.com/46u27e85 JULY 22
 - [ ] Africa Climate Summit (ACS2) https://tinyurl.com/yc4h2uzp JULY 24
@@ -610,17 +613,22 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 8th National Youth Parliament https://tinyurl.com/5exak6ka JULY 12
 - [ ] UNFCCC 2025 Capacity Fellowship https://tinyurl.com/2rh6xut2 JULY 24
 - [ ] Biodesign Innovation Fellowship https://tinyurl.com/5w8ycj7s JULY 20
+- [ ] GITHUB Campus Expert - https://tinyurl.com/crzcpwnm JULY 23
+- [ ] Bertha Challenge Fellowship https://opd.to/3TLT2Qt JULY 22
 
 
 ## AUG
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
 - [ ] 1MYAC https://tinyurl.com/ywapf2jz AUG 2
+- [ ] PhD Scholarship https://lnkd.in/e9diNsFk AUG 6
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
 - [ ] sTARTUP WORLD https://tinyurl.com/uefa8fdz AUG 11
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
 - [ ] IAS Fellowhip https://tinyurl.com/mtyhxykd AUG 31
+- [ ] Global Citizen x PayPal Small Business Impact Awards http://opd.to/3I2fEd4 AUG 2
+- [ ] AI4D Dhttps://tinyurl.com/5fun95d9 AUG 10
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
@@ -646,6 +654,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
 - [ ] PIZZA HOSTING https://tinyurl.com/3mn6mraj OPEN
+- [ ] Swiss National Science Foundation  https://wp.me/p23f03-fvt SEPT 14
 - [ ] Tokyo City University https://tinyurl.com/3nhzy5f4 SEPT 3
 - [ ] Radcliffe Institute Fellowship https://tinyurl.com/t9jutphh SEPT 3
 
