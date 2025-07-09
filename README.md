@@ -600,6 +600,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Devconnect ARG Scholars https://tinyurl.com/3xe2pydu JULY 3
 - [ ] UJ CONNECT ACCELERATOR PROGRAM https://tinyurl.com/4u4s3y37 JULY 11
 - [ ] beai https://lnkd.in/eXJijFqZ JULY 20
+- [ ] The Climate Justice Squad fellowship https://www.climatejusticesquad.org/ JULY 23
 - [ ] Africa Knowledge Hub - Student Research Grant https://lnkd.in/ewTvx9ks JULY 16
 - [ ] Broadening Participation in Computing https://tinyurl.com/7c4j6zn5 JULY 24
 - [ ] Gap in Btn sTARTUP Challenge https://tinyurl.com/bdc3b7bv JULY 7
@@ -618,7 +619,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Bertha Challenge Fellowship https://opd.to/3TLT2Qt JULY 22
 - [ ] Falling Walls Lab https://opd.to/3IrdIL2 JULY 17
 - [ ] AFRIGER https://bit.ly/gascc2025 JULY 12
-- [ ] 
+- [ ] Country Researchers https://tinyurl.com/mu9f2hmc  JULY 24
 
 
 ## AUG
