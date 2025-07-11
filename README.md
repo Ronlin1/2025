@@ -632,7 +632,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
-- [ ] sTARTUP WORLD https://tinyurl.com/uefa8fdz AUG 11
+- [ ] Startup World Cup https://tinyurl.com/uefa8fdz AUG 11
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
 - [ ] IAS Fellowhip https://tinyurl.com/mtyhxykd AUG 31
 - [ ] Global Citizen x PayPal Small Business Impact Awards http://opd.to/3I2fEd4 AUG 2
@@ -656,6 +656,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IEEE ComSoc https://tinyurl.com/jcb3m85x AUG 16
 - [ ] IMAS 2025 https://imas-ieee.org/ AUG 17
 - [ ] Polkadot FUNDS https://tinyurl.com/4bwyy9md AUG 27
+- [ ] Social Shifters https://tinyurl.com/47xrdpu3 AUG 5
 
 - [ ] DDC x TrygFonden Fellowship https://wp.me/p23f03-fiY AUG 29
 
@@ -667,6 +668,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Swiss National Science Foundation  https://wp.me/p23f03-fvt SEPT 14
 - [ ] Tokyo City University https://tinyurl.com/3nhzy5f4 SEPT 3
 - [ ] Radcliffe Institute Fellowship https://tinyurl.com/t9jutphh SEPT 3
+- [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
