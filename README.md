@@ -648,7 +648,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
 - [ ] IAS Fellowhip https://tinyurl.com/mtyhxykd AUG 31
 - [ ] Global Citizen x PayPal Small Business Impact Awards http://opd.to/3I2fEd4 AUG 2
-- [ ] AI4D Dhttps://tinyurl.com/5fun95d9 AUG 10
+- [ ] AI4D  https://tinyurl.com/5fun95d9 AUG 10
 - [ ] Africa Agri-Food Development Programme https://tinyurl.com/24sdjkrc AUG 7
 - [ ] Antler  http://www.antler.co/ AUG 15
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
