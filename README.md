@@ -673,6 +673,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DDC x TrygFonden Fellowship https://wp.me/p23f03-fiY AUG 29
 - [ ] Youth Solidarity Fund (YSF)v https://wp.me/p23f03-fmo AUG 3
 - [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 7
+- [ ] Bombshell Social Impact Grant https://opd.to/3I2MF8M AUG 6
 
 
 
