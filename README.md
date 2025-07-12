@@ -620,15 +620,27 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Falling Walls Lab https://opd.to/3IrdIL2 JULY 17
 - [ ] AFRIGER https://bit.ly/gascc2025 JULY 12
 - [ ] Country Researchers https://tinyurl.com/mu9f2hmc  JULY 24
+- [ ] Young Leaders Union https://tinyurl.com/5djz2dpd JULY 30
+- [ ] CIVICUS Youth Action Team https://wp.me/p23f03-fBr JULY 19
+- [ ] Barry & Marie Lipman https://opd.to/3U3TklN JULY 22
+- [ ] AI Pitch Competition at Termii Group Elevate 4.0 https://tinyurl.com/bdetb2cj JULY 17
+- [ ] Data Future Fellowship 2025 https://opd.to/3Ikwh3P JULY 23
+- [ ] INSEAD AI Founder Sprint https://opd.to/465c5Ng JULY 24
+- [ ] Community Empowerment Grant https://lnkd.in/dzht6GQZ JULY 28
+- [ ] Sustainability & ESG Africa Conference https://opd.to/4nxJIgZ JULY 18
+- [ ] Africa Impact Fundraising https://lnkd.in/d4PXgs2S JULY 20
 
 
 ## AUG
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
+- [ ] Research Associate (Remote) AUG 2
+- [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 2
 - [ ] 1MYAC https://tinyurl.com/ywapf2jz AUG 2
 - [ ] AI in Health Africa Conference https://lnkd.in/dWCZ93C2 AUG 4
 - [ ] RCA Conference https://tinyurl.com/2xsn2fj3 AUG 15
 - [ ] Kjøller INVEST - https://kjoller.com/application.asp AUG 17
 - [ ] PhD Scholarship https://lnkd.in/e9diNsFk AUG 6
+- [ ] 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗠𝗲𝗹𝗯𝗼𝘂𝗿𝗻𝗲 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 https://lnkd.in/dzCZ9XSA AUG 20
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
@@ -638,7 +650,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Global Citizen x PayPal Small Business Impact Awards http://opd.to/3I2fEd4 AUG 2
 - [ ] AI4D Dhttps://tinyurl.com/5fun95d9 AUG 10
 - [ ] Africa Agri-Food Development Programme https://tinyurl.com/24sdjkrc AUG 7
-- [ ] 
+- [ ] Antler  http://www.antler.co/ AUG 15
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
@@ -659,6 +671,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Social Shifters https://tinyurl.com/47xrdpu3 AUG 5
 
 - [ ] DDC x TrygFonden Fellowship https://wp.me/p23f03-fiY AUG 29
+- [ ] Youth Solidarity Fund (YSF)v https://wp.me/p23f03-fmo AUG 3
+- [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 7
 
 
 
