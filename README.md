@@ -612,6 +612,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Pleasure Fellowship Program https://tinyurl.com/yck646aa JULY 12
 - [ ] AfaRise https://tinyurl.com/46u27e85 JULY 22
 - [ ] Africa Climate Summit (ACS2) https://tinyurl.com/yc4h2uzp JULY 24
+- [ ] 2025 Goldman Sachs Engineering https://tinyurl.com/5xx3xjdb JULY 20 
 - [ ] Global Youth Climate Action Fund Microgrants https://tinyurl.com/4acncm89 JULY 14
 - [ ] 8th National Youth Parliament https://tinyurl.com/5exak6ka JULY 12
 - [ ] UNFCCC 2025 Capacity Fellowship https://tinyurl.com/2rh6xut2 JULY 24
