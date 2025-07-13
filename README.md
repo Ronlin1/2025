@@ -669,11 +669,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] IMAS 2025 https://imas-ieee.org/ AUG 17
 - [ ] Polkadot FUNDS https://tinyurl.com/4bwyy9md AUG 27
 - [ ] Social Shifters https://tinyurl.com/47xrdpu3 AUG 5
-
 - [ ] DDC x TrygFonden Fellowship https://wp.me/p23f03-fiY AUG 29
 - [ ] Youth Solidarity Fund (YSF)v https://wp.me/p23f03-fmo AUG 3
 - [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 7
 - [ ] Bombshell Social Impact Grant https://opd.to/3I2MF8M AUG 6
+- [ ] Africa Agri-food Development Programme https://tinyurl.com/ypz478wv AUG 4
 
 
 
