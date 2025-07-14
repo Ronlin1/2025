@@ -575,6 +575,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] WIF https://tinyurl.com/p9juvheu JULY 14
 - [ ] Ireland Fellows Programme https://tinyurl.com/5n83mype JULY 17 
 - [ ] JUI https://tinyurl.com/2u2abjzx JULY 9
+- [ ] BLUE CHAMPIONS https://tinyurl.com/mt3w6a3 JULY 20
 - [ ] Young Leaders Union https://tinyurl.com/363tr7es JULY 22
 - [ ] British Council UK https://tinyurl.com/2h48ee77 JULY 11
 - [ ] UCD Visiting Fellowship https://tinyurl.com/ycxcs4tr JULY 12
@@ -621,6 +622,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GITHUB Campus Expert - https://tinyurl.com/crzcpwnm JULY 23
 - [ ] Bertha Challenge Fellowship https://opd.to/3TLT2Qt JULY 22
 - [ ] Falling Walls Lab https://opd.to/3IrdIL2 JULY 17
+- [ ] GYAF https://tinyurl.com/54s6amzu JULY 16
 - [ ] AFRIGER https://bit.ly/gascc2025 JULY 12
 - [ ] Country Researchers https://tinyurl.com/mu9f2hmc  JULY 24
 - [ ] Young Leaders Union https://tinyurl.com/5djz2dpd JULY 30
@@ -632,6 +634,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Community Empowerment Grant https://lnkd.in/dzht6GQZ JULY 28
 - [ ] Sustainability & ESG Africa Conference https://opd.to/4nxJIgZ JULY 18
 - [ ] Africa Impact Fundraising https://lnkd.in/d4PXgs2S JULY 20
+- [ ] Milken-Motsepe Prize in AI https://tinyurl.com/yc58jy5b JULY 24
 
 
 ## AUG
@@ -648,6 +651,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
 - [ ] Startup World Cup https://tinyurl.com/uefa8fdz AUG 11
+- [ ] Africhi 2025 - Design Competition https://tinyurl.com/ye28dnfm AUG 23
+- [ ] MEST https://tinyurl.com/25vdur8f AUG 7
+- [ ] REDSALT https://www.redsalt.org/ AUG 29
+- [ ] VISA ACCELERATOR https://tinyurl.com/3225cdyn AUG 8
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
 - [ ] IAS Fellowhip https://tinyurl.com/mtyhxykd AUG 31
 - [ ] Global Citizen x PayPal Small Business Impact Awards http://opd.to/3I2fEd4 AUG 2
