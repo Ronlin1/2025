@@ -554,7 +554,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] https://www.100accelerator.com/ 100 ACCELERATOR JULY 6
 - [ ] Connecting the Unconnected Funding https://tinyurl.com/mu69zcnk JULY 17
 - [ ] africa-deep-tech-challenge https://tinyurl.com/3djyt3kd JULY 11
-- [ ] Social Shifters https://tinyurl.com/57r9hfs8 JULY 16
+- [ ] 
 - [ ] FAS https://tinyurl.com/42wb59t2 JULY 3
 - [ ] Uongozi Institute Women’s Leadership https://tinyurl.com/23rrfeme JULY 11
 - [ ] Emerging Climate Leaders Fellowship https://tinyurl.com/2hhuu39n JULY 23
@@ -588,6 +588,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FIAS Fellowship Program https://tinyurl.com/47b6tenb JULY 9
 - [ ] Kyoto Retreat https://tinyurl.com/pmy35uaw JULY 8
 - [ ] Yale Emerging Climate Leader JULY 24
+- [ ] PYCON FR https://www.pycon.fr/2025/en/venue.html JULY 29
+- [ ] PyCon Ireland https://python.ie/ JULY 29
+- [ ] PYCON GHANA https://gh.pycon.org/2025/ JULY 21
+- [ ] PYCON TOGO https://pycontg.pytogo.org/ JULY 22
 - [ ] AWS AI SCHOLARS https://tinyurl.com/55nep3kw JULY 23
 - [ ] BioDesign https://tinyurl.com/3xwkpdrb JULY 19
 - [ ] RELX https://tinyurl.com/mr2pv7hy JULY 19
@@ -635,11 +639,13 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Sustainability & ESG Africa Conference https://opd.to/4nxJIgZ JULY 18
 - [ ] Africa Impact Fundraising https://lnkd.in/d4PXgs2S JULY 20
 - [ ] Milken-Motsepe Prize in AI https://tinyurl.com/yc58jy5b JULY 24
+- [ ] 
 
 
 ## AUG
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
 - [ ] Research Associate (Remote) AUG 2
+- [ ] ARCPRIZE https://www.kaggle.com/competitions/arc-prize-2025/overview AUG 19
 - [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 2
 - [ ] 1MYAC https://tinyurl.com/ywapf2jz AUG 2
 - [ ] AI in Health Africa Conference https://lnkd.in/dWCZ93C2 AUG 4
@@ -653,6 +659,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Startup World Cup https://tinyurl.com/uefa8fdz AUG 11
 - [ ] Africhi 2025 - Design Competition https://tinyurl.com/ye28dnfm AUG 23
 - [ ] MEST https://tinyurl.com/25vdur8f AUG 7
+- [ ] Social Shifters https://tinyurl.com/57r9hfs8 AUG 11
 - [ ] REDSALT https://www.redsalt.org/ AUG 29
 - [ ] VISA ACCELERATOR https://tinyurl.com/3225cdyn AUG 8
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
