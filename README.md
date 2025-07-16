@@ -654,7 +654,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] PhD Scholarship https://lnkd.in/e9diNsFk AUG 6
 - [ ] 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗠𝗲𝗹𝗯𝗼𝘂𝗿𝗻𝗲 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 https://lnkd.in/dzCZ9XSA AUG 20
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
-- [ ] 
+- [ ] Baobab Network Accelerator https://lnkd.in/eDsQ87xA AUG 28
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
 - [ ] Startup World Cup https://tinyurl.com/uefa8fdz AUG 11
