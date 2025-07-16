@@ -639,7 +639,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Sustainability & ESG Africa Conference https://opd.to/4nxJIgZ JULY 18
 - [ ] Africa Impact Fundraising https://lnkd.in/d4PXgs2S JULY 20
 - [ ] Milken-Motsepe Prize in AI https://tinyurl.com/yc58jy5b JULY 24
-- [ ] 
+- [ ] MATLAB Student Ambassador https://tinyurl.com/mdn3cv5z JULY 29
 
 
 ## AUG
@@ -692,6 +692,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 7
 - [ ] Bombshell Social Impact Grant https://opd.to/3I2MF8M AUG 6
 - [ ] Africa Agri-food Development Programme https://tinyurl.com/ypz478wv AUG 4
+- [ ] Credit Report https://tinyurl.com/xben3zrp AUG 25
 
 
 
@@ -702,10 +703,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Tokyo City University https://tinyurl.com/3nhzy5f4 SEPT 3
 - [ ] Radcliffe Institute Fellowship https://tinyurl.com/t9jutphh SEPT 3
 - [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
+- [ ] ALA https://tinyurl.com/3jp2c9wv SEPTR 21
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
 - [ ] FOLWER https://www.fowlergsic.org/ OCT 29
+- [ ] Visiting Fellowship at the Peter McMullin Centre https://wp.me/p23f03-frZ OCT 28
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
