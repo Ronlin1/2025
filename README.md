@@ -606,7 +606,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Devconnect ARG Scholars https://tinyurl.com/3xe2pydu JULY 3
 - [ ] UJ CONNECT ACCELERATOR PROGRAM https://tinyurl.com/4u4s3y37 JULY 11
 - [ ] beai https://lnkd.in/eXJijFqZ JULY 20
-- [ ] Ireland Fellows Programme - Africa https://tinyurl.com/2c9htxpt JULY 17
+- [ ] Ireland Fellows Programme - Africa https://tinyurl.com/2c9htxpt JULY 27
 - [ ] The Climate Justice Squad fellowship https://www.climatejusticesquad.org/ JULY 23
 - [ ] Africa Knowledge Hub - Student Research Grant https://lnkd.in/ewTvx9ks JULY 16
 - [ ] Broadening Participation in Computing https://tinyurl.com/7c4j6zn5 JULY 24
@@ -654,6 +654,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] PhD Scholarship https://lnkd.in/e9diNsFk AUG 6
 - [ ] 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗠𝗲𝗹𝗯𝗼𝘂𝗿𝗻𝗲 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 https://lnkd.in/dzCZ9XSA AUG 20
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
+- [ ] 
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
 - [ ] Startup World Cup https://tinyurl.com/uefa8fdz AUG 11
