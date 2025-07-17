@@ -644,6 +644,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 
 ## AUG
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
+- [ ] Africhi 2025 https://tinyurl.com/ye28dnfm AUG 29
 - [ ] Research Associate (Remote) AUG 2
 - [ ] ARCPRIZE https://www.kaggle.com/competitions/arc-prize-2025/overview AUG 19
 - [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 2
