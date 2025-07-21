@@ -617,6 +617,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] NGFP Fellowship https://wp.me/p23f03-edc JULY 24
 - [ ] Pleasure Fellowship Program https://tinyurl.com/yck646aa JULY 12
 - [ ] AfaRise https://tinyurl.com/46u27e85 JULY 22
+- [ ] https://consensys.io/blog JULY 30
 - [ ] Africa Climate Summit (ACS2) https://tinyurl.com/yc4h2uzp JULY 24
 - [ ] 2025 Goldman Sachs Engineering https://tinyurl.com/5xx3xjdb JULY 29
 - [ ] Global Youth Climate Action Fund Microgrants https://tinyurl.com/4acncm89 JULY 14
