@@ -705,6 +705,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Radcliffe Institute Fellowship https://tinyurl.com/t9jutphh SEPT 3
 - [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
 - [ ] ALA https://tinyurl.com/3jp2c9wv SEPTR 21
+- [ ] ncc https://ncc.co.ug/ SEPT 11
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
