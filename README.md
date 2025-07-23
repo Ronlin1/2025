@@ -631,6 +631,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AFRIGER https://bit.ly/gascc2025 JULY 12
 - [ ] Country Researchers https://tinyurl.com/mu9f2hmc  JULY 24
 - [ ] Young Leaders Union https://tinyurl.com/5djz2dpd JULY 30
+- [ ]  
 - [ ] CIVICUS Youth Action Team https://wp.me/p23f03-fBr JULY 19
 - [ ] Barry & Marie Lipman https://opd.to/3U3TklN JULY 22
 - [ ] AI Pitch Competition at Termii Group Elevate 4.0 https://tinyurl.com/bdetb2cj JULY 17
@@ -651,12 +652,15 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ARCPRIZE https://www.kaggle.com/competitions/arc-prize-2025/overview AUG 19
 - [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 2
 - [ ] 1MYAC https://tinyurl.com/ywapf2jz AUG 2
+- [ ] The Social Shifters Global Innovation Challenge https://tinyurl.com/bdd2wb36 AUG 11  
 - [ ] AI in Health Africa Conference https://lnkd.in/dWCZ93C2 AUG 4
 - [ ] RCA Conference https://tinyurl.com/2xsn2fj3 AUG 15
 - [ ] Kjøller INVEST - https://kjoller.com/application.asp AUG 17
 - [ ] PhD Scholarship https://lnkd.in/e9diNsFk AUG 6
+- [ ] MTN Cloud Accelerator https://mtnaccelerate.com/ AUG 3
 - [ ] 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗠𝗲𝗹𝗯𝗼𝘂𝗿𝗻𝗲 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 https://lnkd.in/dzCZ9XSA AUG 20
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
+- [ ] Next Narrative Africa Fund https://lnkd.in/daJSVXXz AUG 6
 - [ ] Baobab Network Accelerator https://lnkd.in/eDsQ87xA AUG 28
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
@@ -665,6 +669,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MEST https://tinyurl.com/25vdur8f AUG 7
 - [ ] Social Shifters https://tinyurl.com/57r9hfs8 AUG 11
 - [ ] REDSALT https://www.redsalt.org/ AUG 29
+- [ ] JSPS Invitational Fellowships  https://wp.me/p23f03-frl AUG 15
 - [ ] VISA ACCELERATOR https://tinyurl.com/3225cdyn AUG 8
 - [ ] Schwarzman Scholars https://tinyurl.com/vujpmky9 AUG 19
 - [ ] IAS Fellowhip https://tinyurl.com/mtyhxykd AUG 31
@@ -696,6 +701,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Bombshell Social Impact Grant https://opd.to/3I2MF8M AUG 6
 - [ ] Africa Agri-food Development Programme https://tinyurl.com/ypz478wv AUG 4
 - [ ] Credit Report https://tinyurl.com/xben3zrp AUG 25
+- [ ] Morland African Writing Scholarships 2025 http://opd.to/40JCufS AUG 29
 
 
 
