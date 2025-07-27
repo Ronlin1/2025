@@ -648,6 +648,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
 - [ ] Africhi 2025 https://tinyurl.com/ye28dnfm AUG 29
 - [ ] Research Associate (Remote) AUG 2
+- [ ] AU Fellowship https://tinyurl.com/nhakhetr AUG 5
 - [ ] bitnob https://www.subscribepage.com/bitnobevent AUG 3
 - [ ] ARCPRIZE https://www.kaggle.com/competitions/arc-prize-2025/overview AUG 19
 - [ ] Emerging Climate Champions Award https://lnkd.in/dWhHhpwM AUG 2
@@ -714,10 +715,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
 - [ ] ALA https://tinyurl.com/3jp2c9wv SEPTR 21
 - [ ] ncc https://ncc.co.ug/ SEPT 11
+- [ ] Btrust Developer Day https://tinyurl.com/y4m3fbf6 Sept 27
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
 - [ ] FOLWER https://www.fowlergsic.org/ OCT 29
+- [ ] 
 - [ ] Visiting Fellowship at the Peter McMullin Centre https://wp.me/p23f03-frZ OCT 28
 
 ## JOBS & INTERNSHIPS
