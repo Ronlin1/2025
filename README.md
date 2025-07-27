@@ -648,6 +648,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
 - [ ] Africhi 2025 https://tinyurl.com/ye28dnfm AUG 29
 - [ ] Research Associate (Remote) AUG 2
+- [ ] African Climate Intervention Fellowship http://bit.ly/4knMeEG AUG 3
+- [ ] YP Event Cycle  https://bit.ly/YPFunding AUG 5
 - [ ] AU Fellowship https://tinyurl.com/nhakhetr AUG 5
 - [ ] bitnob https://www.subscribepage.com/bitnobevent AUG 3
 - [ ] ARCPRIZE https://www.kaggle.com/competitions/arc-prize-2025/overview AUG 19
@@ -678,6 +680,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AI4D  https://tinyurl.com/5fun95d9 AUG 10
 - [ ] Africa Agri-Food Development Programme https://tinyurl.com/24sdjkrc AUG 7
 - [ ] Antler  http://www.antler.co/ AUG 15
+- [ ] Young Experts Programme https://tinyurl.com/2v8h6cr7 AUG 5
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
