@@ -660,6 +660,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] RCA Conference https://tinyurl.com/2xsn2fj3 AUG 15
 - [ ] Kjøller INVEST - https://kjoller.com/application.asp AUG 17
 - [ ] PhD Scholarship https://lnkd.in/e9diNsFk AUG 6
+- [ ] Henry Arnhold Fellowship https://opd.to/46lwjT0 AUG 16
 - [ ] MTN Cloud Accelerator https://mtnaccelerate.com/ AUG 3
 - [ ] 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗠𝗲𝗹𝗯𝗼𝘂𝗿𝗻𝗲 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 https://lnkd.in/dzCZ9XSA AUG 20
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
@@ -680,10 +681,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AI4D  https://tinyurl.com/5fun95d9 AUG 10
 - [ ] Africa Agri-Food Development Programme https://tinyurl.com/24sdjkrc AUG 7
 - [ ] Antler  http://www.antler.co/ AUG 15
+- [ ] ACIFER https://tinyurl.com/mrxdmdmt AUG 17
+- [ ] Wiser https://tinyurl.com/3x827p77 AUG 4
 - [ ] Young Experts Programme https://tinyurl.com/2v8h6cr7 AUG 5
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
+- [ ] JIF https://project-spark.info/joint-innovation-facility/ AUG 28
+- [ ] wiser-africa-co-production-fellowship https://tinyurl.com/3x827p77 AUG 3
 - [ ] MEST AI Startup Program https://tinyurl.com/25vdur8f AUG 10
 - [ ] harvard-radcliffe-institute-fellowship https://tinyurl.com/572kchtb AUG 23
 - [ ] Hubert Humphrey Fellowship  https://tinyurl.com/yet33au4 AUG 11
@@ -712,6 +717,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
 - [ ] PIZZA HOSTING https://tinyurl.com/3mn6mraj OPEN
+- [ ] PyCon Indonesia https://www.papercall.io/pyconid2025 SEPT 6
 - [ ] Swiss National Science Foundation  https://wp.me/p23f03-fvt SEPT 14
 - [ ] Tokyo City University https://tinyurl.com/3nhzy5f4 SEPT 3
 - [ ] Radcliffe Institute Fellowship https://tinyurl.com/t9jutphh SEPT 3
