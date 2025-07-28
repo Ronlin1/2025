@@ -724,6 +724,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
 - [ ] ALA https://tinyurl.com/3jp2c9wv SEPTR 21
 - [ ] ncc https://ncc.co.ug/ SEPT 11
+- [ ] IDRC Call https://tinyurl.com/yhzm34rw SEPT 8
 - [ ] Btrust Developer Day https://tinyurl.com/y4m3fbf6 Sept 27
 
 ## OCT
