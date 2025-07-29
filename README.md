@@ -660,12 +660,14 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] RCA Conference https://tinyurl.com/2xsn2fj3 AUG 15
 - [ ] Kjøller INVEST - https://kjoller.com/application.asp AUG 17
 - [ ] PhD Scholarship https://lnkd.in/e9diNsFk AUG 6
+- [ ] QubiC Labs https://tinyurl.com/y25c6uj2 AUG 8
 - [ ] Henry Arnhold Fellowship https://opd.to/46lwjT0 AUG 16
 - [ ] MTN Cloud Accelerator https://mtnaccelerate.com/ AUG 3
 - [ ] 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗠𝗲𝗹𝗯𝗼𝘂𝗿𝗻𝗲 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 https://lnkd.in/dzCZ9XSA AUG 20
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
 - [ ] Next Narrative Africa Fund https://lnkd.in/daJSVXXz AUG 6
 - [ ] Baobab Network Accelerator https://lnkd.in/eDsQ87xA AUG 28
+- [ ] commonwealth-professional-fellowship/ https://tinyurl.com/ezjcnu95 AUG 15
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
 - [ ] Startup World Cup https://tinyurl.com/uefa8fdz AUG 11
