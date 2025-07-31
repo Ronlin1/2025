@@ -732,7 +732,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
 - [ ] FOLWER https://www.fowlergsic.org/ OCT 29
-- [ ] 
+- [ ] Grants 4 Good https://tinyurl.com/2p8xk5c9 Oct 19
+- [ ] NRDC Story https://tinyurl.com/268jcv9c OCT 30
 - [ ] Visiting Fellowship at the Peter McMullin Centre https://wp.me/p23f03-frZ OCT 28
 
 ## JOBS & INTERNSHIPS
