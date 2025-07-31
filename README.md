@@ -713,6 +713,10 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Africa Agri-food Development Programme https://tinyurl.com/ypz478wv AUG 4
 - [ ] Credit Report https://tinyurl.com/xben3zrp AUG 25
 - [ ] Morland African Writing Scholarships 2025 http://opd.to/40JCufS AUG 29
+- [ ] The iF Social Impact Prize http://opd.to/3U32Ohh AUG 20
+- [ ] Charlemagne Prize Fellowship https://www.karlspreis.de/de/academy/application AUG 5
+- [ ] WIPO Young Experts Program https://lnkd.in/dV77V9yX AUG 7
+- [ ] Dan Kohn Scholarship https://tinyurl.com/53a9re98 AUG 29
 
 
 
@@ -724,17 +728,30 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Tokyo City University https://tinyurl.com/3nhzy5f4 SEPT 3
 - [ ] Radcliffe Institute Fellowship https://tinyurl.com/t9jutphh SEPT 3
 - [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
-- [ ] ALA https://tinyurl.com/3jp2c9wv SEPTR 21
+- [ ] ALA https://tinyurl.com/3jp2c9wv SEPT 21
 - [ ] ncc https://ncc.co.ug/ SEPT 11
+- [ ] FoodSafety4Africa  https://lnkd.in/gbcZtW8C SEPT SEPT 5
 - [ ] IDRC Call https://tinyurl.com/yhzm34rw SEPT 8
+- [ ] GENAI4EU https://tinyurl.com/mt3h769n SEPT 22
 - [ ] Btrust Developer Day https://tinyurl.com/y4m3fbf6 Sept 27
+- [ ] OS KOREA https://tinyurl.com/yaesp3dj SEPT 8
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
 - [ ] FOLWER https://www.fowlergsic.org/ OCT 29
+- [ ] AFRILEAP https://tinyurl.com/4amctbtf OCT 20
+- [ ] AIDEV JAPAN https://tinyurl.com/yudsh8we OCT 5
+- [ ] OS JAPAN https://tinyurl.com/y6jut6hx OCT 3
 - [ ] Grants 4 Good https://tinyurl.com/2p8xk5c9 Oct 19
 - [ ] NRDC Story https://tinyurl.com/268jcv9c OCT 30
 - [ ] Visiting Fellowship at the Peter McMullin Centre https://wp.me/p23f03-frZ OCT 28
+
+
+## NOV
+- [ ] 
+- [ ] Fowler https://www.fowlergsic.org/get-involved-1 NOV 10
+- [ ] The Audacious Project https://wp.me/p23f03-fFT NOV 29
+
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
@@ -805,13 +822,6 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] 
 - [ ] 
 - [ ] 
-
-
-## NOV
-- [ ] 
-- [ ] Fowler https://www.fowlergsic.org/get-involved-1 NOV 10
-- [ ] 
-
 ## Scholarships
 - [ ] American U of Beirut - https://tinyurl.com/2xnru7ys APR 15
 - [ ] Nesta-ferguson-scholarship https://tinyurl.com/mrnharpn JAN 23
