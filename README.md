@@ -648,6 +648,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] icgeb-smart-fellowship https://tinyurl.com/mr2w5cf7 AUG 27
 - [ ] Africhi 2025 https://tinyurl.com/ye28dnfm AUG 29
 - [ ] Research Associate (Remote) AUG 2
+- [ ] FIX NAMECHEAP EMAIL - AUG 6
 - [ ] African Climate Intervention Fellowship http://bit.ly/4knMeEG AUG 3
 - [ ] YP Event Cycle  https://bit.ly/YPFunding AUG 5
 - [ ] AU Fellowship https://tinyurl.com/nhakhetr AUG 5
@@ -689,6 +690,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf AUG 20
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
+- [ ] RBC Borealis https://rbcborealis.com/internships/ AUG 29
+- [ ] PyCon Indonesia https://www.papercall.io/pyconid2025 AUG 30
 - [ ] JIF https://project-spark.info/joint-innovation-facility/ AUG 28
 - [ ] wiser-africa-co-production-fellowship https://tinyurl.com/3x827p77 AUG 3
 - [ ] MEST AI Startup Program https://tinyurl.com/25vdur8f AUG 10
@@ -744,14 +747,21 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] OS JAPAN https://tinyurl.com/y6jut6hx OCT 3
 - [ ] Grants 4 Good https://tinyurl.com/2p8xk5c9 Oct 19
 - [ ] NRDC Story https://tinyurl.com/268jcv9c OCT 30
+- [ ] afox Scholarship https://tinyurl.com/2u8mj3yp OCT 25
 - [ ] Visiting Fellowship at the Peter McMullin Centre https://wp.me/p23f03-frZ OCT 28
 
 
 ## NOV
-- [ ] 
+- [ ] The Pollination Project https://tinyurl.com/3y84b9yc NOV 12
 - [ ] Fowler https://www.fowlergsic.org/get-involved-1 NOV 10
 - [ ] The Audacious Project https://wp.me/p23f03-fFT NOV 29
+- [ ] https://www.upf.edu/web/emai/ NOV 25
 
+
+## DEC
+- [ ] 
+- [ ] A Vision of Metascience https://tinyurl.com/yc6hk48z DEC 15
+- [ ] 
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
