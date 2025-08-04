@@ -40,7 +40,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GITEX - https://tinyurl.com/5a6s9trr JAN 19
 - [ ] Milestone Makers - https://tinyurl.com/2znjnyss JAN 23
 - [ ] IARC Summer School https://opportunitiescorners.com/iarc-summer-school/ JAN 1
-- [ ] 
+- [ ] Emerging Climate Champions Award -------------------------------------------
 - [ ] 13th IAS Conference https://tinyurl.com/2sb7ptmx JAN 5
 - [ ] Yale Young African Scholars https://africanscholars.yale.edu/ JAN 15
 - [ ] ETHiopia: Builder Residency - https://eth-iopia.xyz/blogs JAN 5
