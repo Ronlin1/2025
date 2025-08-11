@@ -720,11 +720,21 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Charlemagne Prize Fellowship https://www.karlspreis.de/de/academy/application AUG 5
 - [ ] WIPO Young Experts Program https://lnkd.in/dV77V9yX AUG 7
 - [ ] Dan Kohn Scholarship https://tinyurl.com/53a9re98 AUG 29
+- [ ] UNESCO H - https://wp.me/p23f03-fYZ AUG 23
+- [ ] EAC Youth Fellowship - https://portal.youlead.africa/login AUG 16
+- [ ] Horizon Fellowship https://wp.me/p23f03-fTb AUG 20
+- [ ] United Nations OHCHR https://wp.me/p23f03-as5 AUG 28
+- [ ] Africa-Europe Foundation https://lnkd.in/g2p5AqBb AUG 21
+- [ ] ASU https://lnkd.in/g8kavgVP AUG 17
+- [ ] McKinsey Tech 2 Impact  https://tinyurl.com/sp4u364a AUG 25
 
 
 
 ## SEPT
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
+- [ ] Miles Morland Foundation https://wp.me/p23f03-fZi SEPT 11
+- [ ] CYD Fellowships
+- [ ] Innovation Fellowships Scheme https://wp.me/p23f03-fMY SEPT 14
 - [ ] PIZZA HOSTING https://tinyurl.com/3mn6mraj OPEN
 - [ ] PyCon Indonesia https://www.papercall.io/pyconid2025 SEPT 6
 - [ ] Swiss National Science Foundation  https://wp.me/p23f03-fvt SEPT 14
@@ -736,17 +746,25 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FoodSafety4Africa  https://lnkd.in/gbcZtW8C SEPT SEPT 5
 - [ ] IDRC Call https://tinyurl.com/yhzm34rw SEPT 8
 - [ ] GENAI4EU https://tinyurl.com/mt3h769n SEPT 22
+- [ ] AFC Fellowship https://lnkd.in/e8zAhnWc SEPT 13
 - [ ] Btrust Developer Day https://tinyurl.com/y4m3fbf6 Sept 27
 - [ ] OS KOREA https://tinyurl.com/yaesp3dj SEPT 8
+- [ ] IDRC https://wp.me/p23f03-f94 Sept 11
+- [ ] Study in Switzerland https://wp.me/p23f03-aH5 SEPT 20
+- [ ] L’Oréal Groupe Sustainable Innovation Accelerator  https://opd.to/4lZOClI SEPT 16
+- [ ] FOOD4SAFE https://foodsafety4africa.eu/open-call/ SEPT 14
+- [ ] OIST https://tinyurl.com/bdh8krbx SEPT 13
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
 - [ ] FOLWER https://www.fowlergsic.org/ OCT 29
+- [ ] Beyond GDP https://tinyurl.com/4pf95khm OCT 05 
 - [ ] AFRILEAP https://tinyurl.com/4amctbtf OCT 20
 - [ ] AIDEV JAPAN https://tinyurl.com/yudsh8we OCT 5
 - [ ] OS JAPAN https://tinyurl.com/y6jut6hx OCT 3
 - [ ] Grants 4 Good https://tinyurl.com/2p8xk5c9 Oct 19
 - [ ] NRDC Story https://tinyurl.com/268jcv9c OCT 30
+- [ ] AfDB Japan Africa Dream Scholarship https://lnkd.in/g42vaDUF OCT 28
 - [ ] afox Scholarship https://tinyurl.com/2u8mj3yp OCT 25
 - [ ] Visiting Fellowship at the Peter McMullin Centre https://wp.me/p23f03-frZ OCT 28
 
