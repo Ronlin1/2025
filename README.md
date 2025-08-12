@@ -726,6 +726,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] United Nations OHCHR https://wp.me/p23f03-as5 AUG 28
 - [ ] Africa-Europe Foundation https://lnkd.in/g2p5AqBb AUG 21
 - [ ] ASU https://lnkd.in/g8kavgVP AUG 17
+- [ ] Canva Designathon - https://www.canva.com/community/ AUG 29
 - [ ] McKinsey Tech 2 Impact  https://tinyurl.com/sp4u364a AUG 25
 
 
@@ -734,6 +735,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
 - [ ] Miles Morland Foundation https://wp.me/p23f03-fZi SEPT 11
 - [ ] CYD Fellowships
+- [ ] ETH GRANTS https://tinyurl.com/yc4urpc4 SEPT 13
 - [ ] Innovation Fellowships Scheme https://wp.me/p23f03-fMY SEPT 14
 - [ ] PIZZA HOSTING https://tinyurl.com/3mn6mraj OPEN
 - [ ] PyCon Indonesia https://www.papercall.io/pyconid2025 SEPT 6
@@ -754,6 +756,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] L’Oréal Groupe Sustainable Innovation Accelerator  https://opd.to/4lZOClI SEPT 16
 - [ ] FOOD4SAFE https://foodsafety4africa.eu/open-call/ SEPT 14
 - [ ] OIST https://tinyurl.com/bdh8krbx SEPT 13
+- [ ] AFC Fellowship  https://commonpurpose.org/the-afc-fellowship SEPT 9
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
