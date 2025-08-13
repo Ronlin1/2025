@@ -745,6 +745,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
 - [ ] ALA https://tinyurl.com/3jp2c9wv SEPT 21
 - [ ] ncc https://ncc.co.ug/ SEPT 11
+- [ ] GRANT GLOBAL FUND - https://tinyurl.com/2wukv8hd OPEN
 - [ ] FoodSafety4Africa  https://lnkd.in/gbcZtW8C SEPT SEPT 5
 - [ ] IDRC Call https://tinyurl.com/yhzm34rw SEPT 8
 - [ ] GENAI4EU https://tinyurl.com/mt3h769n SEPT 22
