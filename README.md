@@ -2,7 +2,7 @@
 Welcome to the 2025 Opportunities, Hackathons, and Tech Events Tracker repository! This repo is designed to help you stay ahead of the curve by tracking deadlines for various fellowships, hackathons, grants, competitions, and other exciting opportunities tailored for young innovators and tech enthusiasts.
   
 ![](/oppt.png)
-
+ 
 ## 📅 Read Me [Again]
 Each link in this repository includes a date, which corresponds to the deadline for that specific opportunity. To give you ample time to prepare, the dates listed here are typically a few days earlier than the actual deadline. This buffer allows you to gather your materials, refine your applications, and ensure you’re eligible before the final submission.
 
