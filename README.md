@@ -750,6 +750,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FoodSafety4Africa  https://lnkd.in/gbcZtW8C SEPT SEPT 5
 - [ ] IDRC Call https://tinyurl.com/yhzm34rw SEPT 8
 - [ ] GENAI4EU https://tinyurl.com/mt3h769n SEPT 22
+- [ ] Youth Ecopreneur Programme https://bit.ly/yeco2025 SEPT 8
 - [ ] AFC Fellowship https://lnkd.in/e8zAhnWc SEPT 13
 - [ ] Btrust Developer Day https://tinyurl.com/y4m3fbf6 Sept 27
 - [ ] OS KOREA https://tinyurl.com/yaesp3dj SEPT 8
