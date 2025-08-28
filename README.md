@@ -20,10 +20,11 @@ If you find this tracker helpful, please consider giving it a star 🌟! Feel fr
 ## 📌 Follow Me
 Stay connected and follow me on GitHub for more updates and resources.
 
-## ⭐️ Another Great Repo for Students:
+## ⭐️ Another Great Repo for Students: HOT OPEN LINKS
 - [x] https://tinyurl.com/4wfed4pv
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
+- [ ] MASTERCARD https://tinyurl.com/yf3s68c3 OPEN
 
 
 ## JAN
@@ -749,6 +750,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] GRANT GLOBAL FUND - https://tinyurl.com/2wukv8hd OPEN
 - [ ] FoodSafety4Africa  https://lnkd.in/gbcZtW8C SEPT SEPT 5
 - [ ] IDRC Call https://tinyurl.com/yhzm34rw SEPT 8
+- [ ] AIMS https://apply.aims.ac.za/ SEPT 25
+- [ ] MASTERCARD https://tinyurl.com/yf3s68c3 OPEN
 - [ ] GENAI4EU https://tinyurl.com/mt3h769n SEPT 22
 - [ ] Youth Ecopreneur Programme https://bit.ly/yeco2025 SEPT 8
 - [ ] AFC Fellowship https://lnkd.in/e8zAhnWc SEPT 13
