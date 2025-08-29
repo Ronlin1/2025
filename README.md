@@ -751,6 +751,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
 - [ ] ALA https://tinyurl.com/3jp2c9wv SEPT 21
 - [ ] ncc https://ncc.co.ug/ SEPT 11
+- [ ] PyCon Indonesia - https://www.papercall.io/pyconid2025 SEPT 6
 - [ ] Pycon africa https://t.co/K5vWjyt211 Sept 5
 - [ ] 2026 ASU https://tinyurl.com/39hcd65r SEPT 6 
 - [ ] WSA - https://hafug.org/wsa-young-innovators-award-2025/ SEPT 25
