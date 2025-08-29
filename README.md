@@ -665,7 +665,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] QubiC Labs https://tinyurl.com/y25c6uj2 AUG 8
 - [ ] Henry Arnhold Fellowship https://opd.to/46lwjT0 AUG 16
 - [ ] MTN Cloud Accelerator https://mtnaccelerate.com/ AUG 3
-- [ ] 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗠𝗲𝗹𝗯𝗼𝘂𝗿𝗻𝗲 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 https://lnkd.in/dzCZ9XSA AUG 20
+- [ ] 
 - [ ] One World Media  https://tinyurl.com/2xnewdv9 AUG 7
 - [ ] Next Narrative Africa Fund https://lnkd.in/daJSVXXz AUG 6
 - [ ] Baobab Network Accelerator https://lnkd.in/eDsQ87xA AUG 28
@@ -673,7 +673,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] World Bank Africa Fellowship https://tinyurl.com/3shtafps AUG 4
 - [ ] visa-accelerator https://tinyurl.com/3225cdyn AUG 3
 - [ ] Startup World Cup https://tinyurl.com/uefa8fdz AUG 11
-- [ ] Africhi 2025 - Design Competition https://tinyurl.com/ye28dnfm AUG 23
+- [ ] 
 - [ ] MEST https://tinyurl.com/25vdur8f AUG 7
 - [ ] Social Shifters https://tinyurl.com/57r9hfs8 AUG 11
 - [ ] REDSALT https://www.redsalt.org/ AUG 29
@@ -736,20 +736,28 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
 - [ ] Miles Morland Foundation https://wp.me/p23f03-fZi SEPT 11
 - [ ] MSU https://tinyurl.com/4s5fkw93 SEPT 16
+- [ ] Africhi 2025 - Design Competition https://tinyurl.com/ye28dnfm SEPT 8
+- [ ] Hubert Humphrey Fellowship https://tinyurl.com/bdhrnrw5 SEPT 18
+- [ ] knight-hennessy-scholarship https://tinyurl.com/yc7njw4r SEPT 14
 - [ ] ETH GRANTS https://tinyurl.com/yc4urpc4 SEPT 13
 - [ ] Innovation Fellowships Scheme https://wp.me/p23f03-fMY SEPT 14
 - [ ] PIZZA HOSTING https://tinyurl.com/3mn6mraj OPEN
+- [ ] IEEE ComSoc https://tinyurl.com/jcb3m85x SEPT 11
 - [ ] PyCon Indonesia https://www.papercall.io/pyconid2025 SEPT 6
 - [ ] Swiss National Science Foundation  https://wp.me/p23f03-fvt SEPT 14
 - [ ] Tokyo City University https://tinyurl.com/3nhzy5f4 SEPT 3
+- [ ] Adobe Express Ambassador Program https://tinyurl.com/2fbu7hkf SEPT 20
 - [ ] Radcliffe Institute Fellowship https://tinyurl.com/t9jutphh SEPT 3
 - [ ] The Africa Prize for Engineering https://tinyurl.com/bdhvp4sj SEPT 10
 - [ ] ALA https://tinyurl.com/3jp2c9wv SEPT 21
 - [ ] ncc https://ncc.co.ug/ SEPT 11
+- [ ] Pycon africa https://t.co/K5vWjyt211 Sept 5
+- [ ] 2026 ASU https://tinyurl.com/39hcd65r SEPT 6 
 - [ ] WSA - https://hafug.org/wsa-young-innovators-award-2025/ SEPT 25
 - [ ] GRANT GLOBAL FUND - https://tinyurl.com/2wukv8hd OPEN
 - [ ] FoodSafety4Africa  https://lnkd.in/gbcZtW8C SEPT SEPT 5
 - [ ] IDRC Call https://tinyurl.com/yhzm34rw SEPT 8
+- [ ] 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗠𝗲𝗹𝗯𝗼𝘂𝗿𝗻𝗲 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 https://lnkd.in/dzCZ9XSA SEPT 20
 - [ ] AIMS https://apply.aims.ac.za/ SEPT 25
 - [ ] MASTERCARD https://tinyurl.com/yf3s68c3 OPEN
 - [ ] GENAI4EU https://tinyurl.com/mt3h769n SEPT 22
@@ -762,12 +770,18 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] L’Oréal Groupe Sustainable Innovation Accelerator  https://opd.to/4lZOClI SEPT 16
 - [ ] FOOD4SAFE https://foodsafety4africa.eu/open-call/ SEPT 14
 - [ ] OIST https://tinyurl.com/bdh8krbx SEPT 13
+- [ ] ASUS https://tinyurl.com/335e5jp2 SEPT 3
+- [ ] OPENAI HACK https://openai.devpost.com/ SEPT 7
+- [ ] MIDNIGHT HACK https://events.mlh.io/events/12829-midnight-hackathon SEPT 25
 - [ ] AFC Fellowship  https://commonpurpose.org/the-afc-fellowship SEPT 9
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
 - [ ] FOLWER https://www.fowlergsic.org/ OCT 29
-- [ ] Beyond GDP https://tinyurl.com/4pf95khm OCT 05 
+- [ ] Beyond GDP https://tinyurl.com/4pf95khm OCT 05
+- [ ] ML Engineer Pro - https://tinyurl.com/3zes7kat OCT 8
+- [ ] MEXT https://tinyurl.com/ktyc4nwd OCT 14
+- [ ] MLH ADDRESS https://tinyurl.com/uams78zw OCT 16
 - [ ] AFRILEAP https://tinyurl.com/4amctbtf OCT 20
 - [ ] AIDEV JAPAN https://tinyurl.com/yudsh8we OCT 5
 - [ ] OS JAPAN https://tinyurl.com/y6jut6hx OCT 3
