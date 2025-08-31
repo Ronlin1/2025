@@ -736,6 +736,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
 - [ ] Miles Morland Foundation https://wp.me/p23f03-fZi SEPT 11
 - [ ] MSU https://tinyurl.com/4s5fkw93 SEPT 16
+- [ ] CNF Event https://tinyurl.com/wwx84tmu SEPT 16
+- [ ] ASU https://tinyurl.com/39hcd65r SEPT 5
+- [ ] Canva Community  https://www.canva.com/community/ SEPT 22
 - [ ] Africhi 2025 - Design Competition https://tinyurl.com/ye28dnfm SEPT 8
 - [ ] Hubert Humphrey Fellowship https://tinyurl.com/bdhrnrw5 SEPT 18
 - [ ] knight-hennessy-scholarship https://tinyurl.com/yc7njw4r SEPT 14
