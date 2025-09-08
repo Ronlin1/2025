@@ -25,6 +25,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] FUNDING IEEE https://tinyurl.com/3d7djxux AUG 20
 - [ ] ETH GLOBAL H https://ethglobal.com/city AUG 11
 - [ ] MASTERCARD https://tinyurl.com/yf3s68c3 OPEN
+- [ ] KIGALI BVS https://tinyurl.com/3hktkctp 
+- [ ] ESP https://esp.ethereum.foundation/ OPEN
 
 
 ## JAN
@@ -104,7 +106,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Migration and Technology Fellowship https://tinyurl.com/4fny27xc DEC 28 2024
 - [ ] Accelerate Africa Program - https://www.acceler8.africa/ JAN 4
 - [ ] Local Pathways Fellow https://tinyurl.com/4xbuxvyc JAN 13
-- [ ]
+- [ ] 
 - [ ] Global Essay Competition  - https://tinyurl.com/43hpa5yx JAN 20 
 - [ ] Data Enrichment Work - https://tinyurl.com/5d9rht3p JAN 20
 - [ ] GELA PGMP - https://shorturl.at/fFIgk JAN 18
@@ -738,6 +740,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MSU https://tinyurl.com/4s5fkw93 SEPT 16
 - [ ] CNF Event https://tinyurl.com/wwx84tmu SEPT 16
 - [ ] ASU https://tinyurl.com/39hcd65r SEPT 5
+- [ ] Boabab https://form.thebaobabnetwork.com/render/68b1ff820903529b4f4ed592 SEPT 29
+- [ ] VELOCITY LABS https://www.velocitylabs.org/defi-builders SEPT 16
 - [ ] Canva Community  https://www.canva.com/community/ SEPT 22
 - [ ] Africhi 2025 - Design Competition https://tinyurl.com/ye28dnfm SEPT 8
 - [ ] Hubert Humphrey Fellowship https://tinyurl.com/bdhrnrw5 SEPT 18
@@ -774,6 +778,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] L’Oréal Groupe Sustainable Innovation Accelerator  https://opd.to/4lZOClI SEPT 16
 - [ ] FOOD4SAFE https://foodsafety4africa.eu/open-call/ SEPT 14
 - [ ] OIST https://tinyurl.com/bdh8krbx SEPT 13
+- [ ] AGENTCON https://sessionize.com/agentcon-2025-kampala SEPT 24
 - [ ] ASUS https://tinyurl.com/335e5jp2 SEPT 3
 - [ ] OPENAI HACK https://openai.devpost.com/ SEPT 7
 - [ ] MIDNIGHT HACK https://events.mlh.io/events/12829-midnight-hackathon SEPT 25
@@ -785,6 +790,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Beyond GDP https://tinyurl.com/4pf95khm OCT 05
 - [ ] ML Engineer Pro - https://tinyurl.com/3zes7kat OCT 8
 - [ ] MEXT https://tinyurl.com/ktyc4nwd OCT 14
+- [ ] ESP https://esp.ethereum.foundation/ OCT 19
 - [ ] MLH ADDRESS https://tinyurl.com/uams78zw OCT 16
 - [ ] AFRILEAP https://tinyurl.com/4amctbtf OCT 20
 - [ ] AIDEV JAPAN https://tinyurl.com/yudsh8we OCT 5
@@ -801,10 +807,11 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fowler https://www.fowlergsic.org/get-involved-1 NOV 10
 - [ ] The Audacious Project https://wp.me/p23f03-fFT NOV 29
 - [ ] https://www.upf.edu/web/emai/ NOV 25
+- [ ] EO Net https://eonetwork.org/GSEA/Apply NOV 19
 
 
 ## DEC
-- [ ] 
+- [ ] Energy Mentors https://www.energymentors.org/participate DEC 28
 - [ ] A Vision of Metascience https://tinyurl.com/yc6hk48z DEC 15
 - [ ] 
 
