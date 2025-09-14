@@ -783,6 +783,8 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] OPENAI HACK https://openai.devpost.com/ SEPT 7
 - [ ] MIDNIGHT HACK https://events.mlh.io/events/12829-midnight-hackathon SEPT 25
 - [ ] AFC Fellowship  https://commonpurpose.org/the-afc-fellowship SEPT 9
+- [ ] MTN https://www.mtn.com/pachipanda-challenge/ SEPT 21
+- [ ] GATES AI https://lnkd.in/g8E3FP9i SEPT 15
 
 ## OCT
 - [ ] NRDC Climate Storytelling Fellowship https://wp.me/p23f03-eMP OCT 18
@@ -794,6 +796,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MLH ADDRESS https://tinyurl.com/uams78zw OCT 16
 - [ ] AFRILEAP https://tinyurl.com/4amctbtf OCT 20
 - [ ] AIDEV JAPAN https://tinyurl.com/yudsh8we OCT 5
+- [ ] Princeton https://www.princetoninafrica.org/nexus/  OCT 3
 - [ ] OS JAPAN https://tinyurl.com/y6jut6hx OCT 3
 - [ ] Grants 4 Good https://tinyurl.com/2p8xk5c9 Oct 19
 - [ ] NRDC Story https://tinyurl.com/268jcv9c OCT 30
