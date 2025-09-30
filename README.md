@@ -738,6 +738,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fulbright US Student https://tinyurl.com/4zttdswp SEPT 10
 - [ ] Miles Morland Foundation https://wp.me/p23f03-fZi SEPT 11
 - [ ] MSU https://tinyurl.com/4s5fkw93 SEPT 16
+- [ ] 
 - [ ] CNF Event https://tinyurl.com/wwx84tmu SEPT 16
 - [ ] ASU https://tinyurl.com/39hcd65r SEPT 5
 - [ ] Boabab https://form.thebaobabnetwork.com/render/68b1ff820903529b4f4ed592 SEPT 29
@@ -811,6 +812,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] The Audacious Project https://wp.me/p23f03-fFT NOV 29
 - [ ] https://www.upf.edu/web/emai/ NOV 25
 - [ ] EO Net https://eonetwork.org/GSEA/Apply NOV 19
+- [ ] UPG https://tinyurl.com/5aanmybz NOV 10
 
 
 ## DEC
