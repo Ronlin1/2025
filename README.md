@@ -975,7 +975,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] DeepLearning.AI Event ambassadors https://www.deeplearning.ai/ambassador/
 - [ ] Telemus AI Ambassador https://telemus.ai/ambassador_program.html
 - [ ] Perplexity AI https://www.perplexity.ai/campus-strategists 
-- [ ] 
+- [ ] Claude AI Ambassadors - https://www.claude.com/programs/campus
 - [ ] 
 - [ ] 
 - [ ] 
