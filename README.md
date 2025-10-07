@@ -804,6 +804,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] AfDB Japan Africa Dream Scholarship https://lnkd.in/g42vaDUF OCT 28
 - [ ] afox Scholarship https://tinyurl.com/2u8mj3yp OCT 25
 - [ ] Visiting Fellowship at the Peter McMullin Centre https://wp.me/p23f03-frZ OCT 28
+- [ ] Prof ML https://tinyurl.com/3zes7kat OCT 29
 
 
 ## NOV
@@ -811,7 +812,9 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fowler https://www.fowlergsic.org/get-involved-1 NOV 10
 - [ ] The Audacious Project https://wp.me/p23f03-fFT NOV 29
 - [ ] https://www.upf.edu/web/emai/ NOV 25
+- [ ] University of Cambridge https://tinyurl.com/326fcr7w NOV 10
 - [ ] EO Net https://eonetwork.org/GSEA/Apply NOV 19
+- [ ] FAO Interns https://tinyurl.com/yzjf2s63 NOV 29
 - [ ] UPG https://tinyurl.com/5aanmybz NOV 10
 
 
