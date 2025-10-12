@@ -27,6 +27,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] MASTERCARD https://tinyurl.com/yf3s68c3 OPEN
 - [ ] KIGALI BVS https://tinyurl.com/3hktkctp 
 - [ ] ESP https://esp.ethereum.foundation/ OPEN
+- [ ] SCHOLARSHIPS - https://tinyurl.com/ywjvs98n VARIOUS
 
 
 ## JAN
@@ -800,6 +801,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Princeton https://www.princetoninafrica.org/nexus/  OCT 3
 - [ ] OS JAPAN https://tinyurl.com/y6jut6hx OCT 3
 - [ ] Grants 4 Good https://tinyurl.com/2p8xk5c9 Oct 19
+- [ ] The Mo Ibrahim Foundation  https://lnkd.in/eFWgHm3z OCT 28
 - [ ] NRDC Story https://tinyurl.com/268jcv9c OCT 30
 - [ ] AfDB Japan Africa Dream Scholarship https://lnkd.in/g42vaDUF OCT 28
 - [ ] afox Scholarship https://tinyurl.com/2u8mj3yp OCT 25
