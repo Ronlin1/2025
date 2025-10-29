@@ -28,6 +28,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] KIGALI BVS https://tinyurl.com/3hktkctp 
 - [ ] ESP https://esp.ethereum.foundation/ OPEN
 - [ ] SCHOLARSHIPS - https://tinyurl.com/ywjvs98n VARIOUS
+- [ ] ANOTHER SCHOLARSHIP LIST https://tinyurl.com/32dkrr5f OPEN
 
 
 ## JAN
@@ -803,10 +804,12 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Grants 4 Good https://tinyurl.com/2p8xk5c9 Oct 19
 - [ ] The Mo Ibrahim Foundation  https://lnkd.in/eFWgHm3z OCT 28
 - [ ] NRDC Story https://tinyurl.com/268jcv9c OCT 30
+- [ ] 
 - [ ] AfDB Japan Africa Dream Scholarship https://lnkd.in/g42vaDUF OCT 28
 - [ ] afox Scholarship https://tinyurl.com/2u8mj3yp OCT 25
 - [ ] Visiting Fellowship at the Peter McMullin Centre https://wp.me/p23f03-frZ OCT 28
 - [ ] Prof ML https://tinyurl.com/3zes7kat OCT 29
+- [ ] SCHOLARSHIP LIST https://tinyurl.com/32dkrr5f OPEN
 
 
 ## NOV
@@ -814,6 +817,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Fowler https://www.fowlergsic.org/get-involved-1 NOV 10
 - [ ] The Audacious Project https://wp.me/p23f03-fFT NOV 29
 - [ ] https://www.upf.edu/web/emai/ NOV 25
+- [ ] NUS Scholarships https://tinyurl.com/y46m4zac NOV 10
 - [ ] University of Cambridge https://tinyurl.com/326fcr7w NOV 10
 - [ ] EO Net https://eonetwork.org/GSEA/Apply NOV 19
 - [ ] FAO Interns https://tinyurl.com/yzjf2s63 NOV 29
@@ -823,7 +827,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 ## DEC
 - [ ] Energy Mentors https://www.energymentors.org/participate DEC 28
 - [ ] A Vision of Metascience https://tinyurl.com/yc6hk48z DEC 15
-- [ ] 
+- [ ] WYL https://tinyurl.com/yyzprwf9 DEC 1
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
