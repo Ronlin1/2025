@@ -828,6 +828,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] Energy Mentors https://www.energymentors.org/participate DEC 28
 - [ ] A Vision of Metascience https://tinyurl.com/yc6hk48z DEC 15
 - [ ] WYL https://tinyurl.com/yyzprwf9 DEC 1
+- [ ] MIT https://oge.mit.edu/msrp/ DEC 10
 
 ## JOBS & INTERNSHIPS
 - [ ] YCJF Learning Mgr - https://tinyurl.com/2rh3bdzh JAN 2
