@@ -29,6 +29,7 @@ Stay connected and follow me on GitHub for more updates and resources.
 - [ ] ESP https://esp.ethereum.foundation/ OPEN
 - [ ] SCHOLARSHIPS - https://tinyurl.com/ywjvs98n VARIOUS
 - [ ] ANOTHER SCHOLARSHIP LIST https://tinyurl.com/32dkrr5f OPEN
+- [ ] Campus Wass - https://www.tfaforms.com/5065108 OPEN
 
 
 ## JAN
